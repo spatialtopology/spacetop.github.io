@@ -1,0 +1,3 @@
+[submodule "academicpages.github.io"]
+	path = academicpages.github.io
+	url = https://github.com/academicpages/academicpages.github.io.git
