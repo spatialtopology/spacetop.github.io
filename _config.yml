@@ -10,11 +10,7 @@ locale                   : "en-US"
 title                    : "SpaceTop"
 title_separator          : "-"
 permalink: pretty
-remote_theme             : pmarsceill/just-the-docs
-
-permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
-
+remote_theme             : pmarsceill/just-the-docss
 name                     : &name "SpaceTop"
 description              : &description "personal description"
 url                      : https://spatialtopology.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -128,7 +124,11 @@ include:
   - .htaccess
   - _pages
   - files
+
 exclude:
+  - ""*.gemspec"
+  - "*.gem"
+  - Gemfile.lock
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
