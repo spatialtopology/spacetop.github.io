@@ -26,5 +26,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "jekyll-remote-theme"
-  # gem "just-the-docs"
+  gem "just-the-docs"
 end
