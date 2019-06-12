@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "SpaceTop"
 title_separator          : "-"
+remote_theme             : pmarsceill/just-the-docs
 name                     : &name "SpaceTop"
 description              : &description "personal description"
 url                      : https://spatialtopology.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
