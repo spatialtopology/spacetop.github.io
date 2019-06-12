@@ -9,6 +9,8 @@
 locale                   : "en-US"
 title                    : "SpaceTop"
 title_separator          : "-"
+
+permalink: pretty
 remote_theme             : pmarsceill/just-the-docs
 name                     : &name "SpaceTop"
 description              : &description "personal description"
