@@ -7,7 +7,7 @@ main:
     url: /tasks/
 
   - title: "Project Timeline"
-    url: /portfolio/
+    url: /projectplan/
 
   - title: "Analysis"
     url: /analysis/
