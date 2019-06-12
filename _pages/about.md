@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![useful image]({{ site.url }}/images/website_main.png =1000x)
+![website main]({{ site.url }}/images/website_main.png | width=1000)
 
 
 A data-driven personal website
