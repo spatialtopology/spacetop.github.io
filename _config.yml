@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: Getting started #teaching
+      type: gettingstarted #teaching
     values:
       layout: single
       author_profile: true
