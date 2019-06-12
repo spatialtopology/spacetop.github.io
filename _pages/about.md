@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+[[https://github.com/spatialtopology/spatialtopology.github.io/blob/master/images/website_main.png|alt=website_overview]]
 
-![alt text](https://github.com/spatialtopology/spatialtopology.github.io/blob/master/images/website_main.png "Logo Title Text 1")
 
 
 A data-driven personal website
