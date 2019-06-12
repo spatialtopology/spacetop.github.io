@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![alt text](website.png "Logo Title Text 1")
+![alt text](https://github.com/spatialtopology/spatialtopology.github.io/blob/master/images/website_main.png "Logo Title Text 1")
 
 
 A data-driven personal website
