@@ -175,16 +175,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  gettingstarted:
     output: true
     permalink: /:collection/:path/
-  publications:
+  tasks:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projectplan:
     output: true
     permalink: /:collection/:path/
-  talks:
+  analysis:
     output: true
     permalink: /:collection/:path/
 
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: Tasks # publications
+      type: tasks # publications
     values:
       layout: single
       author_profile: true
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: Project Plan
+      type: projectplan
     values:
       layout: single
       author_profile: true
@@ -239,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: Analysis
+      type: analysis
     values:
       layout: talk
       author_profile: true
