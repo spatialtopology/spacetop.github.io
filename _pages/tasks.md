@@ -1,8 +1,15 @@
----
+<!-- ---
 layout: archive
 title: "Tasks"
 permalink: /tasks/
 author_profile: true
+--- -->
+
+---
+layout: default
+title: Tasks
+permalink: /tasks/
+nav_order: 4
 ---
 
 Task
