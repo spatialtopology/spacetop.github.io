@@ -126,7 +126,7 @@ include:
   - files
 
 exclude:
-  - ""*.gemspec"
+  - "*.gemspec"
   - "*.gem"
   - Gemfile.lock
   - "*.sublime-project"
