@@ -10,6 +10,7 @@ redirect_from:
 
 [[https://github.com/spatialtopology/spatialtopology.github.io/blob/master/images/website_main.png|alt=website_main]]
 
+![useful image]({{ site.url }}/images/website_main.png)
 
 
 A data-driven personal website
