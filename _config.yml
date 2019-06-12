@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "CAN lab Spatial Topology Project"
-  avatar           : "profile.png"
+  avatar           : "spacetoplogo.svg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :

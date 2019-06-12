@@ -12,11 +12,11 @@ main:
   - title: "Analysis"
     url: /analysis/
 
-  - title: "Blog Posts"
-    url: /year-archive/
-
-  - title: "CV"
-    url: /cv/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+  #
+  # - title: "CV"
+  #   url: /cv/
 
   - title: "Guide"
     url: /markdown/
