@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "SpaceTop"
 title_separator          : "-"
 permalink: pretty
-remote_theme             : pmarsceill/just-the-docss
+remote_theme             : pmarsceill/just-the-docs
 name                     : &name "SpaceTop"
 description              : &description "personal description"
 url                      : https://spatialtopology.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -271,7 +271,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
