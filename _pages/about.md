@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "In an ideal world, experiments are well documented... Let's make that happen"
+title: "In an ideal world, experiments are well documented... Let's make that happen!"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[[https://github.com/spatialtopology/spatialtopology.github.io/blob/master/images/website_main.png|alt=website_overview]]
+[[https://github.com/spatialtopology/spatialtopology.github.io/blob/master/images/website_main.png|alt=website_main]]
 
 
 
