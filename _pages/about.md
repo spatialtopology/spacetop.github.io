@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-[[https://github.com/spatialtopology/spatialtopology.github.io/blob/master/images/website_main.png|alt=website_main]]
 
-![useful image]({{ site.url }}/images/website_main.png)
+
+![useful image]({{ site.url }}/images/website_main.png =1000x)
 
 
 A data-driven personal website
