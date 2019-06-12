@@ -10,8 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
-
-
+gem "jekyll-remote-theme"
+gem "just-the-docs"
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
@@ -25,6 +25,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
-  gem "jekyll-remote-theme"
-  gem "just-the-docs"
+
 end
