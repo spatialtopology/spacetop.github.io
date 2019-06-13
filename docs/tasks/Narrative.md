@@ -2,7 +2,7 @@
 layout: default
 title: Narrative
 parent: Tasks
-nav_order: 3
+nav_order: 1
 ---
 
 # Task description
