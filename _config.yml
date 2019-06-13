@@ -20,9 +20,10 @@ url                      : "https://spatialtopology.github.io" # the base hostna
 repository               : "spatialtopology/spatialtopology.github.io"
 permalink                : pretty
 exclude                  : ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+remote_theme             : pmarsceill/just-the-docs
 
 # Enable or disable the site search
-search_enabled: true
+search_enabled           : true
 
 # Aux links for the upper right navigation
 aux_links:
