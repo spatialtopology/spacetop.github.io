@@ -2,9 +2,10 @@
 ---
 layout: default
 title: Tasks
-permalink: /docs/tasks
-has_children: true
 nav_order: 3
+has_children: true
+permalink: docs/tasks
+
 ---
 
 
@@ -52,12 +53,3 @@ Links
 [Google Drive](https://drive.google.com/drive/u/0/folders/1hC8EEWQ5k54oWWkbssdCWg6--vCz4009)
 [Git Repo]
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.tasks reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
