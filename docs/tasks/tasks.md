@@ -2,7 +2,7 @@
 ---
 layout: default
 title: Tasks
-permalink: /tasks
+permalink: /docs/tasks
 has_children: true
 nav_order: 3
 ---
