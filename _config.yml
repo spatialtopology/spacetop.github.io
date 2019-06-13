@@ -20,7 +20,7 @@ url                      : https://spatialtopology.github.io # the base hostname
 repository               : "spatialtopology/spatialtopology.github.io"
 permalink                : pretty
 exclude                  : ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
-theme             : pmarsceill/just-the-docs
+theme                    : pmarsceill/just-the-docs
 title_separator          : "-"
 permalink: pretty
 name                     : &name "SpaceTop"
@@ -72,12 +72,10 @@ author:
 search_enabled           : true
 
 # Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+#aux_links:
+#  "Just the Docs on GitHub":
+#    - "//github.com/pmarsceill/just-the-docs"
 
-
-# Reading Files
 include:
   - .htaccess
   - docs
@@ -93,4 +91,10 @@ color_scheme: nil
 # ga_tracking: UA-2709176-10
 
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-remote-theme
   - jekyll-seo-tag
