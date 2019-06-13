@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Getting Started"
-permalink: /docs/gettingstarted
+permalink: /gettingstarted
 nav_order: 2
 ---
 
