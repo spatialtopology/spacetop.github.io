@@ -8,7 +8,7 @@ nav_order: 2
 # Task description
  * Heejung
  * 20 min
- * button 
+ * button
 
 # Links
  * stimuli
