@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Getting Started"
-permalink: /gettingstarted/
+permalink: /gettingstarted
 nav_order: 2
 ---
 
@@ -10,4 +10,3 @@ nav_order: 2
 
 # Recruitment resources
 [Github CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private){: .btn }
-
