@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title                    : SpaceTop
 description              : A Project management page
-baseurl                  : "" # the subpath of your site, e.g. /blog
+baseurl                  : "/docs" # the subpath of your site, e.g. /blog
 url                      : "https://spatialtopology.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository               : "spatialtopology/spatialtopology.github.io"
 permalink                : pretty
