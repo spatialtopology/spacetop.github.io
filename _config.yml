@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title                    : "SpaceTop"
-baseurl                  : "/" # the subpath of your site, e.g. /blog
-url                      : "https://spatialtopology.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository               : "spatialtopology/spatialtopology.github.io"
-exclude                  : ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+title:  "SpaceTop"
+baseurl:  "/" # the subpath of your site, e.g. /blog
+url:  "https://spatialtopology.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "spatialtopology/spatialtopology.github.io"
+exclude:  ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 #theme                    : pmarsceill/just-the-docs
-theme                    : "just-the-docs"
-title_separator          : "-"
-permalink: pretty
-name                     : &name "SpaceTop"
-description              : &description "personal description"
+theme: "just-the-docs"
+title_separator:  "-"
+permalink:  pretty
+name: &name "SpaceTop"
+description:  &description "personal description"
 
-# 
+#
 # # Site Author
 # author:
 #   name             : "CAN lab Spatial Topology Project"
@@ -68,7 +68,7 @@ description              : &description "personal description"
 
 
 # Enable or disable the site search
-search_enabled           : true
+search_enabled: true
 
 # Aux links for the upper right navigation
 #aux_links:
