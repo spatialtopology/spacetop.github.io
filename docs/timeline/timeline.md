@@ -15,7 +15,7 @@ permalink: /timeline
 {:toc}
 
 
-# Project Planning
+## Project Planning
 
 Meeting dates
 {: .fs-6 .fw-300 }
@@ -26,7 +26,7 @@ Meeting dates
 * 6/24: pilot every task
 * 7/1: start scanning
 
-# Recruitment Timeline
+## Recruitment Timeline
 
 CU Boulder collection
 {: .fs-6 .fw-300 }

@@ -7,4 +7,5 @@ permalink: /tasks
 ---
 # Tasks
 ![tasks]({{ site.url }}/images/tasks.png)
+
 Figure of the task configuration per participant
