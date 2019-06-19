@@ -31,7 +31,7 @@ under [jungheejung/socialPain](https://github.com/jungheejung/socialPain) "priva
 
 1. original dataset
 {: .fs-4 }
-* UNBC-McMaster Shoulder Pain Expression Archive Database]
+* UNBC-McMaster Shoulder Pain Expression Archive Database
 * Reference: Lucy, P., Cohn, J. F., Prkachin, K. M., Solomon, P., & Matthrews, I. (2011). Painful data: The UNBC-McMaster Shoulder Pain Expression Archive Database. IEEE International Conference on Automatic Face and Gesture Recognition (FG2011)
 
 2. publication in CANlab
