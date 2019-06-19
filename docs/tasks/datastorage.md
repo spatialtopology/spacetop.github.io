@@ -3,7 +3,7 @@ layout: default
 title: Data Storage
 parent: Tasks
 permalink: /tasks/datastorage
-nav_order: 3
+nav_order: 2
 ---
 
 # Task code
@@ -19,4 +19,3 @@ nav_order: 3
 # Analysis code
 {: .fs-6 }
 * github:
-

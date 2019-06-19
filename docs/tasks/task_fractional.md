@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Fractional Factorials
-parent: Tasks
+parent: Task Descriptions
+grand_parent: Tasks
 nav_order: 2
 ---
 
@@ -12,4 +13,4 @@ nav_order: 2
 
 # Links
  * stimuli
- * git repo
+ * [git repo](https://github.com/jungheejung/spacetop)
