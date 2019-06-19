@@ -5,7 +5,7 @@ permalink: /gettingstarted
 nav_order: 2
 ---
 
-# ![Recruitment]({{ site.url }}/images/recruitment.png)
+![Recruitment]({{ site.url }}/images/recruitment.png)
 
 
 
