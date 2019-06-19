@@ -17,6 +17,8 @@ permalink: /timeline
 
 ## Project Planning
 
+[Monday](https://canlab.monday.com/boards/110889235?finish_wizard=true){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 Meeting dates
 {: .fs-6 .fw-300 }
 
