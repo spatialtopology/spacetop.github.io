@@ -24,32 +24,32 @@ title_separator:  "-"
 permalink:  pretty
 name: &name "SpaceTop"
 description:  &description "personal description"
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: docs
-    values:
-      author_profile: true
 #
-# Site Author
-# https://mmistakes.github.io/minimal-mistakes/docs/layouts/#author-profile
-author:
-  name             : "CAN lab Spatial Topology Project"
-  avatar           : "/images/freepik_spacepack_planetsfreeicon.svg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Boulder, CO"
-  links:
-    - label: "CANlab GitHub"
-    icon: "fab fa-fw fa-github"
-    url: "https://github.com/canlab/"
-    - label: "SpaceTop GitHub"
-        icon: "fab fa-fw fa-github"
-        url: "https://github.com/spatialtoplogy/"
-        - label: "CANlab website"
-        icon: "fas fa-fw fa-link"
-        url: "https://canlabweb.colorado.edu/"
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: docs
+#     values:
+#       author_profile: true
+# #
+# # Site Author
+# # https://mmistakes.github.io/minimal-mistakes/docs/layouts/#author-profile
+# author:
+#   name             : "CAN lab Spatial Topology Project"
+#   avatar           : "/images/freepik_spacepack_planetsfreeicon.svg"
+#   bio              : "Your biography for the left-hand sidebar"
+#   location         : "Boulder, CO"
+#   links:
+#     - label: "CANlab GitHub"
+#     icon: "fab fa-fw fa-github"
+#     url: "https://github.com/canlab/"
+#     - label: "SpaceTop GitHub"
+#         icon: "fab fa-fw fa-github"
+#         url: "https://github.com/spatialtoplogy/"
+#         - label: "CANlab website"
+#         icon: "fas fa-fw fa-link"
+#         url: "https://canlabweb.colorado.edu/"
 
 #   employer         :
 #   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
