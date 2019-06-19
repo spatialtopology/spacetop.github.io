@@ -6,7 +6,8 @@ grand_parent: Tasks
 nav_order: 5
 ---
 # Social Influence
-{: .no_toc }
+{:toc }
+
 
 ## Current GitHub
 {: .fs-6 }
