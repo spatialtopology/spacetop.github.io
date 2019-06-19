@@ -26,12 +26,12 @@ name: &name "SpaceTop"
 description:  &description "personal description"
 
 #
-# # Site Author
-# author:
-#   name             : "CAN lab Spatial Topology Project"
-#   avatar           : "freepik_spacepack_planetsfreeicon.svg"
-#   bio              : "Your biography for the left-hand sidebar"
-#   location         : "Boulder, CO"
+# Site Author
+author:
+  name             : "CAN lab Spatial Topology Project"
+  avatar           : "freepik_spacepack_planetsfreeicon.svg"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Boulder, CO"
 #   employer         :
 #   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : #"http://yourfullgooglescholarurl.com"
