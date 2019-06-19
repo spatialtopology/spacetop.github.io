@@ -12,5 +12,6 @@ nav_order: 4
   * trackball + thermode
 
 # Links
+{: .fs-6 }
  * [stimuli]()
  * [git repo]()

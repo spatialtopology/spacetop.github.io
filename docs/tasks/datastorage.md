@@ -11,6 +11,7 @@ nav_order: 2
 * github: spatialtoplogy
 
 # stimuli
+{: .fs-6 }
 [Google Drive](https://drive.google.com/drive/u/0/folders/1hC8EEWQ5k54oWWkbssdCWg6--vCz4009)
 [Git Repo]
 
@@ -25,3 +26,4 @@ nav_order: 2
 
 
 # Writing
+{: .fs-6 }

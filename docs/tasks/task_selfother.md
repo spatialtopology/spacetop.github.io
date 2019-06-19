@@ -12,5 +12,6 @@ nav_order: 3
   * trackball
 
 # Links
+{: .fs-6 }
   * [stimuli]()
   * [git repo]()

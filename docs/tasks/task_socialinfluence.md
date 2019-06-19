@@ -5,14 +5,20 @@ parent: Task Descriptions
 grand_parent: Tasks
 nav_order: 5
 ---
+# Social Influence
+{: .no_toc }
 
-# Current GitHub
+## Current GitHub
+{: .fs-6 }
 under jungheejung/socialPain "private repo"
 
-## Pain
+## Condition 1. Pain
+{: .fs-6 }
 * github: https://github.com/canlab/Paradigms_Private/blob/master/PAINGEN_paradigms/TriggerThermode.m
 
-## vicarious pain
+## Condition 2. Vicarious pain
+{: .fs-6 }
+
 1. original dataset
 * UNBC-McMaster Shoulder Pain Expression Archive Database
 * http://www.pitt.edu/~emotion/um-spread.htm
@@ -22,7 +28,8 @@ under jungheejung/socialPain "private repo"
 * CANlab publication:
 * CANlab github: https://github.com/canlab/Paradigms_Public/tree/master/inprep_Lanlan_Perceived_pain_gender_bias
 
-## cognitive difficulty
+## Condition 3. cognitive difficulty
+{: .fs-6 }
 * MSIT?
 * Feedback
 * Randy pressure

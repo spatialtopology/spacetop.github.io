@@ -12,5 +12,6 @@ nav_order: 6
 * button
 
 # Links
- * stimuli
+{: .fs-6 }
+ * [stimuli]()
  * [git repo]()
