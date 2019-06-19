@@ -14,7 +14,10 @@ nav_order: 2
 1. TOC
 {:toc}
 
-## 0. IRB protocol
+## 0. Starting a new projects?
+please read [wiki](https://canlabweb.colorado.edu/wiki/doku.php/master_table_of_contents/internal/projects/project_template/project_template) before you get started 
+
+# Recruitment
 
 ## 1. First Point of Contact
 * Physical Fulyers
