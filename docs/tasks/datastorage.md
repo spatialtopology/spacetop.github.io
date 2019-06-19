@@ -6,24 +6,26 @@ permalink: /tasks/datastorage
 nav_order: 2
 ---
 
+# Data Storage
+{: .no_toc }
+
 # Task code
 {: .fs-6 }
-* github: spatialtoplogy
+  * github: spatialtoplogy
 
 # stimuli
 {: .fs-6 }
-[Google Drive](https://drive.google.com/drive/u/0/folders/1hC8EEWQ5k54oWWkbssdCWg6--vCz4009)
-[Git Repo]
+  * [Google Drive](https://drive.google.com/drive/u/0/folders/1hC8EEWQ5k54oWWkbssdCWg6--vCz4009)
+  * [Git Repo]
 
 # fMRI data
 {: .fs-6 }
-* CU Boulder PETA library: /pl/active/ics/wagerlab...? "UPDATE:
-* Dartmouth
+  * CU Boulder PETA library: /pl/active/ics/wagerlab...? "UPDATE:
+  * Dartmouth
 
 # Analysis code
 {: .fs-6 }
-* github:
-
+  * [github]()
 
 # Writing
 {: .fs-6 }
