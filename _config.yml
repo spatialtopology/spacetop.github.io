@@ -29,7 +29,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: docs
     values:
       author_profile: true
 #
