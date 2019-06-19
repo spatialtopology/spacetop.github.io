@@ -1,14 +1,20 @@
 ---
 layout: default
+title: 404
+nav_exclude: true
+---
+
+<!-- ---
+layout: default
 title: Project Planning
 parent: Timeline
 nav_order: 1
----
+--- -->
 
 # Project Planning
 {: .fs-9 }
 
-Meeitng dates 
+Meeitng dates
 {: .fs-6 .fw-300 }
 
 * 5/20 - 5/24: discuss design details
