@@ -16,9 +16,11 @@ nav_order: 2
 
 # Starting a new project?
 * Please read [wiki](https://canlabweb.colorado.edu/wiki/doku.php/master_table_of_contents/internal/projects/project_template/project_template) before you get started 
+* [dev comments] We'll probably have to update this wiki once we move to Dartmouth
 
 # Aims
 * Read the [grant proposal](https://drive.google.com/open?id=1BnZ-v0hHyp6xuFJt8PYUWy7l3YJaIxG7) (private) 
+* Read the [IRB protocol]() (private access)
 
 # Recruitment
 
@@ -29,7 +31,7 @@ nav_order: 2
 
 ## 2. Consent Form Docusign
 * [create link]()
-* comments: where to store? 
+* [dev comments] where to store this docusign file? 
 
 ## 3. Questionnaire
 [Github CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
