@@ -14,25 +14,29 @@ nav_order: 2
 1. TOC
 {:toc}
 
-## 0. Starting a new project?
-please read [wiki](https://canlabweb.colorado.edu/wiki/doku.php/master_table_of_contents/internal/projects/project_template/project_template) before you get started 
+# Starting a new project?
+* Please read [wiki](https://canlabweb.colorado.edu/wiki/doku.php/master_table_of_contents/internal/projects/project_template/project_template) before you get started 
+
+# Aims
+* Read the [grant proposal](https://drive.google.com/open?id=1BnZ-v0hHyp6xuFJt8PYUWy7l3YJaIxG7) (private) 
 
 # Recruitment
 
 ## 1. First Point of Contact
 * Physical Fulyers
-* social media [payment info]()
+* Social media ads: we're doing facebook ads. Read more about [payment info]()
 * CANlab website
 
 ## 2. Consent Form Docusign
-* [create link]
+* [create link]()
+* comments: where to store? 
 
 ## 3. Questionnaire
-[Github CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private){: .btn }
+[Github CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
 * compensation for filling out questionnaire [payment info]()
 * Data storage
 
 ## 4. Recontact
-Sample emails
-[Github CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private){: .btn }
-[Google Drive](https://github.com/canlab/CANlab_data_and_equipment_private){: .btn }
+* Use email templates
+* They will be stored in [Github - CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
+* And also in [Google Drive - CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
