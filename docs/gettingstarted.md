@@ -14,7 +14,7 @@ nav_order: 2
 1. TOC
 {:toc}
 
-## 0. Starting a new projects?
+## 0. Starting a new project?
 please read [wiki](https://canlabweb.colorado.edu/wiki/doku.php/master_table_of_contents/internal/projects/project_template/project_template) before you get started 
 
 # Recruitment
