@@ -6,6 +6,6 @@ has_children: true
 permalink: /tasks
 ---
 # Tasks
-![tasks]({{ site.url }}/images/tasks.png)
+![tasks]({{ site.url }}/images/SpaceTop_Design.png)
 
 Figure of the task configuration per participant
