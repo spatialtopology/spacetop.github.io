@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Dartmouth fMRI PC setup
+title: DBIC PC setup
 parent: equipment
-nav_order: 1
+nav_order: 2
 has_children: true
 permalink: /equipment/dbic_pcsetup
 ---
@@ -28,6 +28,6 @@ spacetop.dartmouth.edu
 ### Note from research computing:
 If you need to communicate with other systems outside of the fMRI private network besides 129.170.17.4 and 10.232.11.5 then the ACLs on the network will have to be modified.
 
-### If help needed, 
+### If help needed,
 contact Andrew Knutsen, Technology Support Specialist
 or Heejung Jung, who helped set up.
