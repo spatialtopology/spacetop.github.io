@@ -3,10 +3,10 @@ layout: default
 title: Dartmouth fMRI PC setup
 nav_order: 3
 has_children: true
-permalink: /tasks
+permalink: /equipment/dbic_pcsetup
 ---
 # Dartmouth fMRI PC setup
-![tasks]({{ site.url }}/images/tasks.png)
+![tasks]({{ site.url }}/images/fmripc_setup.pdf)
 
 # image of PsychDefaultSetup
 
