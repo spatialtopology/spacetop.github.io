@@ -9,7 +9,7 @@ permalink: /equipment/dbic_pcsetup
 
 
 # Dartmouth fMRI PC setup
-![tasks]({{ site.url }}/images/fmripc_setup.pdf)
+![tasks]({{ site.url }}/images/dbic_setup.png)
 
 # image of PsychDefaultSetup
 
