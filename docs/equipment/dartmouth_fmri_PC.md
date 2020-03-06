@@ -1,10 +1,13 @@
 ---
 layout: default
 title: Dartmouth fMRI PC setup
-nav_order: 3
+parent: equipment
+nav_order: 1
 has_children: true
 permalink: /equipment/dbic_pcsetup
 ---
+
+
 # Dartmouth fMRI PC setup
 ![tasks]({{ site.url }}/images/fmripc_setup.pdf)
 

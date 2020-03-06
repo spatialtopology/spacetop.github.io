@@ -1,3 +1,10 @@
+---
+layout: default
+title: equipment
+nav_order: 2
+has_children: true
+permalink: /equipment
+---
 # equipment
 
 ## 1. dartmouth TSA
@@ -28,7 +35,7 @@ Changing the medoc test programs (will attach screen shots of the programs in th
 changing the matlab scripts (pushed to git)
 integrating biopac function into the matlab script (someone at boulder will have to integrate it OR send me the code that is utilized at Boulder)
 
-#### F. Remaining issues: @tor 
+#### F. Remaining issues: @tor
 Issue 3) timing of the thremode is still longer than 6.5 sec. The program takes 2~3.5 sec to reach the designated temperature, which is different from the planned-out 1.7 sec. The medoc always adds 1~1.5 sec to the program, and this is out of my hands.
 
 Should I change the rampup speed, or lengthen the time of the experiment?
