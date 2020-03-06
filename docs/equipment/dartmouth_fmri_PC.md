@@ -20,7 +20,7 @@ permalink: /equipment/dbic_pcsetup
 * default gateway: 10.64.1.1
 
 ### spacetop computer
-spacetop.dartmouth.edu
+* spacetop.dartmouth.edu
 * ip: 10.64.1.9
 * netmask: 255.255.255.240
 * default gateway: 10.64.1.1
