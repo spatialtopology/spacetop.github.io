@@ -15,54 +15,38 @@ nav_order: 2
 {:toc}
 
 # Starting a new project?
-* Please read [wiki](https://canlabweb.colorado.edu/wiki/doku.php/master_table_of_contents/internal/projects/project_template/project_template) before you get started 
+* Please read [wiki](https://canlabweb.colorado.edu/wiki/doku.php/master_table_of_contents/internal/projects/project_template/project_template) before you get started
 * [dev comments] We'll probably have to update this wiki once we move to Dartmouth
 
 # Aims
-* Read the [grant proposal](https://drive.google.com/open?id=1BnZ-v0hHyp6xuFJt8PYUWy7l3YJaIxG7) (private) 
+* Read the [grant proposal](https://drive.google.com/open?id=1BnZ-v0hHyp6xuFJt8PYUWy7l3YJaIxG7) (private)
 * Read the [IRB protocol]() (private access)
 
 
+# I. spacetop related documents
+* IRB
+* CPHS Dartmouth: 31937
+* CPHS consent approval
 
-# Github
-[helpful resources](https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
-1. create your own repo
-2. spatialtopology Github will fork your repo
-3., 4, 5 follow this https://gist.github.com/CristinaSolana/1885435
-3. on the RTMNF computer, use git bash. git clone your fork
-4. add remote from original repo to your forked repo
-5. update your fork
-` git pull upstream master` This updates your local repo
-`git push origin master` in order to update your remote spatialtopology repo
-
-
-how to solve some errors?
-use https instead of git://github.com .... etc
-git remote set-url origin https://SPATIALTOPOLOGY.git
-git remote set-url upstream https://YOUROWNREPO.git
-
-check via `git remote -v`
-
-always pull before you start anything
-
-step 2 working on the RTNP computer
-1. create a new branch where you'll work on
-This branch will not have a lot of edits 
-- mostly changes in the directory name, tailored to the RTNF laptop
-
-
-[updating your feature branch](https://gist.github.com/santisbon/a1a60db1fb8eecd1beeacd986ae5d3ca)
-
-# Recruitment
+# II. Recruitment
 
 ## 1. First Point of Contact
-* Physical Fulyers
+* Physical Flyers
 * Social media ads: we're doing facebook ads. Read more about [payment info]()
 * CANlab website
 
+Dartmouth
+* CANlab Facebook
+* Flyering campus and hanover
+* Sona for undergrad screening
+* temp.joblisting
+* Uppervalley listserve
+* Pbs participants listserve – Robertson Lab
+* facebook for uppervalley young adults
+
 ## 2. Consent Form Docusign
 * [create link]()
-* [dev comments] where to store this docusign file? 
+* [dev comments] where to store this docusign file?
 
 ## 3. Questionnaire
 [Github CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
@@ -74,4 +58,25 @@ This branch will not have a lot of edits
 * They will be stored in [Github - CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
 * And also in [Google Drive - CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
 
+# III. Running experiments
+## 1. Github
+[helpful resources](https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
+[spacetop github repo](https://github.com/spatialtopology)
+*
 
+## 2. getting used to thermodes
+
+## 3. Setting up
+[Boulder Session 1 protocol](https://docs.google.com/document/d/15e3CQjqzsIfqJ0BiEdy-gt5VANHdfyGWHzLTLjXapqQ/edit)
+[Boulder Session 2 protocol](https://docs.google.com/document/d/1dZR2Mk_0wRooVWk-coA2tuTsL5PZWlC4nz5FAl-RWRs/edit)
+[Boulder Session 3 protocol](https://docs.google.com/document/d/1a_mLhPxOsDBd47rDH9tDOqaVz0hFHf7USW_5c1COl7c/edit)
+[Boulder Session 4 protocol](https://docs.google.com/document/d/1KGp6LRBOpHcTOK0DetvMjc34jUpMZ3wLrgC378H6pKs/edit)
+[Dartmouth setting up in scanner suite](https://docs.google.com/document/d/1Xj3KeMtZRq-R_-78stY_sAlMGLKBEqkvL2FKDcMgtzc/edit?usp=sharing)
+[Dialogues from Boulder](https://drive.google.com/drive/u/0/folders/1PkbvHpcVDCWOsBl8Ut30FWyzzIFEeVES)
+[Dialogues at Dartmouth]()
+
+## 4. running
+
+# IV. Important housekeeping
+[spacetop_googledrive_Admin](https://drive.google.com/drive/u/0/folders/1PkbvHpcVDCWOsBl8Ut30FWyzzIFEeVES)
+[comparing Boulder and Dartmouth](https://docs.google.com/spreadsheets/d/1VRdqW3Rk1XGJEpTqqY8-6lSuCWt44CUtEkyMeiWjTwI/edit#gid=0)

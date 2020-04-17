@@ -7,9 +7,8 @@ has_children: true
 permalink: /equipment/tsa2
 ---
 
-# equipment
 
-# Project Timeline
+# TSA-II
 {: .no_toc }
 
 ## Table of contents
@@ -18,8 +17,8 @@ permalink: /equipment/tsa2
 1. TOC
 {:toc}
 
-## 1. dartmouth TSA
-Documentation date:
+
+Documentation date: Mar 06, 2020
 
 social influence task related issues
 This is a lengthy report that doesn’t fit well in a slack channel, but I wanted to update and receive input from relevant people. After testing since last weekend, I’ve made some major changes to the pain task in social, and it works relatively well (although I’m not getting my hopes up yet).
