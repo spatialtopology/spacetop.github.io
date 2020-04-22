@@ -3,7 +3,7 @@ layout: default
 title: Housekeeping
 parent: Getting Started
 nav_order: 4
-permalink: /gettingstarted/documents
+permalink: /gettingstarted/housekeeping
 ---
 
 # Inportant Housekeeping
