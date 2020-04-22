@@ -6,7 +6,7 @@ nav_order: 4
 permalink: /gettingstarted/housekeeping
 ---
 
-# Inportant Housekeeping
+# Important Housekeeping
 {: .no_toc }
 
 [spacetop_googledrive_Admin](https://drive.google.com/drive/u/0/folders/1PkbvHpcVDCWOsBl8Ut30FWyzzIFEeVES)
