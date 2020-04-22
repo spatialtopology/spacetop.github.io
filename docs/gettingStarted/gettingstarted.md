@@ -3,6 +3,8 @@ layout: default
 title: "Getting Started"
 permalink: /gettingstarted
 nav_order: 2
+has_children: true
+
 ---
 
 ![Recruitment]({{ site.url }}/images/recruitment.png)
