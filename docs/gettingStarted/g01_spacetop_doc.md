@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Spacetop related documents
+title: Spacetop documents
 parent: Getting Started
-nav_order: 1
 permalink: /gettingstarted/documents
+nav_order: 1
 ---
 
 # Tasks

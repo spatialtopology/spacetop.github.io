@@ -2,8 +2,8 @@
 layout: default
 title: Housekeeping
 parent: Getting Started
-nav_order: 4
 permalink: /gettingstarted/housekeeping
+nav_order: 4
 ---
 
 # Important Housekeeping

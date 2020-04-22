@@ -2,8 +2,8 @@
 layout: default
 title: Recruitment
 parent: Getting Started
-nav_order: 2
 permalink: /gettingstarted/recruitment
+nav_order: 2
 ---
 
 # Recruitment

@@ -2,8 +2,8 @@
 layout: default
 title: Running Experiments
 parent: Getting Started
-nav_order: 3
 permalink: /gettingstarted/experiments
+nav_order: 3
 ---
 
 # Running experiments
