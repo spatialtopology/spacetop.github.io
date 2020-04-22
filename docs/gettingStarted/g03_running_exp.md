@@ -2,7 +2,6 @@
 layout: default
 title: Running Experiments
 parent: Getting Started
-has_children: false
 nav_order: 3
 permalink: /gettingstarted/experiments
 ---

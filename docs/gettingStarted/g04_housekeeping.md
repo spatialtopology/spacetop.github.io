@@ -2,8 +2,7 @@
 layout: default
 title: Housekeeping
 parent: Getting Started
-has_children: false
-nav_order: 1
+nav_order: 4
 permalink: /gettingstarted/documents
 ---
 
