@@ -1,13 +1,11 @@
 ---
 layout: default
-title: "Getting Started"
+title: Getting Started
 permalink: /gettingstarted
 nav_order: 2
 has_children: true
 
 ---
-
-![Recruitment]({{ site.url }}/images/recruitment.png)
 
 
 ## Table of contents
@@ -31,6 +29,8 @@ has_children: true
 * CPHS consent approval
 
 # II. Recruitment
+![Recruitment]({{ site.url }}/images/recruitment.png)
+
 
 ## 1. First Point of Contact
 * Physical Flyers
