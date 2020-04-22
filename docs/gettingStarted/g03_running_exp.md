@@ -2,7 +2,7 @@
 layout: default
 title: Running Experiments
 parent: Getting Started
-permalink: /gettingstarted/experiments
+permalink: /gettingstarted/runexp
 nav_order: 3
 ---
 

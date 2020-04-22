@@ -2,7 +2,7 @@
 layout: default
 title: Spacetop documents
 parent: Getting Started
-permalink: /gettingstarted/documents
+permalink: /gettingstarted/sdocuments
 nav_order: 1
 ---
 
