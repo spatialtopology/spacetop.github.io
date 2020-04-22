@@ -11,8 +11,7 @@ nav_order: 3
 
 
 # 1. Github
-[helpful resources](https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
-[spacetop github repo](https://github.com/spatialtopology)
+* spacetop github repo [github.com/spatialtopology](https://github.com/spatialtopology)
 *
 
 # 2. getting used to thermodes
@@ -24,6 +23,7 @@ nav_order: 3
 * [Boulder Session 4 protocol](https://docs.google.com/document/d/1KGp6LRBOpHcTOK0DetvMjc34jUpMZ3wLrgC378H6pKs/edit) <br>
 * [Dartmouth setting up in scanner suite](https://docs.google.com/document/d/1Xj3KeMtZRq-R_-78stY_sAlMGLKBEqkvL2FKDcMgtzc/edit?usp=sharing) <br>
 * [Dialogues from Boulder](https://drive.google.com/drive/u/0/folders/1PkbvHpcVDCWOsBl8Ut30FWyzzIFEeVES) <br>
-* [Dialogues at Dartmouth]()
+* [Dialogues at Dartmouth - to be updated with Luke]()
 
-## 4. running
+# 4. running task scripts
+* >> to be updated in the "tasks" page
