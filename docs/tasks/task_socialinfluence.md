@@ -21,7 +21,7 @@ under [jungheejung/socialPain](https://github.com/jungheejung/socialPain) "priva
 ## Condition 1. Pain
 {: .fs-6 }
 [github TriggerThermode](https://github.com/canlab/Paradigms_Private/blob/master/PAINGEN_paradigms/TriggerThermode.m){: .btn .fs-5 .mb-4 .mb-md-0 }
-
+modified after changing to usb mode
 
 ## Condition 2. Vicarious pain
 {: .fs-6 }
@@ -41,6 +41,9 @@ under [jungheejung/socialPain](https://github.com/jungheejung/socialPain) "priva
 
 ## Condition 3. cognitive difficulty
 {: .fs-6 }
+* mental rotation task
+* benefits: well-normed
+
 * MSIT? [caltech repository](https://github.com/jmtyszka/FuncLoc)
 * Feedback
 * Randy pressure
