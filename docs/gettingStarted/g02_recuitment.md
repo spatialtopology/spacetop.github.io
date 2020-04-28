@@ -13,11 +13,12 @@ nav_order: 2
 
 
 # 1. First Point of Contact
+## Boulder
 * Physical Flyers
 * Social media ads: we're doing facebook ads. Read more about [payment info]()
 * CANlab website
 
-Dartmouth
+## Dartmouth
 * CANlab Facebook
 * Flyering campus and hanover
 * Sona for undergrad screening
@@ -26,16 +27,22 @@ Dartmouth
 * Pbs participants listserve – Robertson Lab
 * facebook for uppervalley young adults
 
-# 2. Consent Form Docusign
+----
+# 2. Reaching out
+
+# 2-1. Consent Form Docusign
 * [create link]()
 * [dev comments] where to store this docusign file?
 
-# 3. Questionnaire
+# 2-2. Questionnaire
 [Github CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
 * compensation for filling out questionnaire [payment info]()
 * Data storage
 
-# 4. Recontact
-* Use email templates
-* They will be stored in [Github - CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
-* And also in [Google Drive - CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
+# 2-3. Emails
+## Acuity
+[ fill in with detailed pipelines ]
+
+## email templates
+* [Google Drive email templates](https://docs.google.com/document/d/1InjkQ1vOsiuxvA0znb06FO8GiNn350IK3J1rwRas9Yw/edit?usp=sharing)
+* They will be stored in [Github - CANlab Data and Equipment Private ## has to be added](https://github.com/canlab/CANlab_data_and_equipment_private)
