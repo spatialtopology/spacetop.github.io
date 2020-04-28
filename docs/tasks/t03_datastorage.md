@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 # Data Storage
-{: .no_toc }
+<!-- {: .no_toc } -->
 
 Note: SpaceTop team should have a meeting about data storage, once the study is ready to launch.
 {: .fs-6 .fw-300 }
@@ -38,4 +38,4 @@ Note: SpaceTop team should have a meeting about data storage, once the study is 
 # Writing
 {: .fs-6 }
 	* Each task manager will work on Writing
-  * final version will be 
+  * final version will be
