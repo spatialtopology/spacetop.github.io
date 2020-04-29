@@ -11,10 +11,8 @@ has_children: true
 {: .no_toc }
 
 ## Table of contents
-{: .no_toc .text-delta }
+{: toc }
 
-1. TOC
-{:toc}
 
 ---
 
