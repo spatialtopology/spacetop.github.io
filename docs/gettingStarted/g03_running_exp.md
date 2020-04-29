@@ -9,12 +9,23 @@ nav_order: 3
 # Running experiments
 {: .no_toc }
 
+## Table of contents
+{: .no_toc .text-delta }
 
-# 1. Github
+1. TOC
+{:toc}
+
+---
+
+## 1. Github
 * spacetop github repo [github.com/spatialtopology](https://github.com/spatialtopology)
 *
 
+---
+
 # 2. getting used to thermodes
+
+---
 
 # 3. Setting up
 * [Boulder Session 1 protocol](https://docs.google.com/document/d/15e3CQjqzsIfqJ0BiEdy-gt5VANHdfyGWHzLTLjXapqQ/edit) <br>
@@ -24,6 +35,8 @@ nav_order: 3
 * [Dartmouth setting up in scanner suite](https://docs.google.com/document/d/1Xj3KeMtZRq-R_-78stY_sAlMGLKBEqkvL2FKDcMgtzc/edit?usp=sharing) <br>
 * [Dialogues from Boulder](https://drive.google.com/drive/u/0/folders/1PkbvHpcVDCWOsBl8Ut30FWyzzIFEeVES) <br>
 * [Dialogues at Dartmouth - to be updated with Luke]()
+
+---
 
 # 4. running task scripts
 * >> to be updated in the "tasks" page

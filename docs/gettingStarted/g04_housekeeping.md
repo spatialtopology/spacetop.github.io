@@ -9,5 +9,13 @@ nav_order: 4
 # Important Housekeeping
 {: .no_toc }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 * Spacetop Googledrive > A_Protocol [link](https://drive.google.com/drive/u/0/folders/1PkbvHpcVDCWOsBl8Ut30FWyzzIFEeVES) <br>
 * Comparing Boulder and Dartmouth paperwork [Google sheets](https://docs.google.com/spreadsheets/d/1VRdqW3Rk1XGJEpTqqY8-6lSuCWt44CUtEkyMeiWjTwI/edit#gid=0)
