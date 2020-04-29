@@ -9,7 +9,7 @@ has_children: true
 
 
 ## Table of contents
-{: .no_toc .text-delta }
+{: .text-delta }
 
 
 # Starting a new project?
@@ -19,15 +19,3 @@ has_children: true
 # Aims
 * Read the [grant proposal](https://drive.google.com/open?id=1BnZ-v0hHyp6xuFJt8PYUWy7l3YJaIxG7) (private)
 * Read the [IRB protocol]() (private access)
-
-
-# I. spacetop related documents
-
-
-# II. Recruitment
-
-
-# III. Running experiments
-
-
-# IV. Important housekeeping
