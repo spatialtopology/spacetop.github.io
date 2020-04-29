@@ -10,15 +10,20 @@ nav_order: 2
 {: .no_toc }
 
 ![Recruitment]({{ site.url }}/images/recruitment.png)
+## Table of contents
+{: .no_toc .text-delta }
 
+1. TOC
+{:toc}
 
-# 1. First Point of Contact
-## Boulder
+---
+## 1. First Point of Contact
+### Boulder
 * Physical Flyers
 * Social media ads: we're doing facebook ads. Read more about [payment info]()
 * CANlab website
-
-## Dartmouth
+---
+### Dartmouth
 * CANlab Facebook
 * Flyering campus and hanover
 * Sona for undergrad screening
@@ -28,21 +33,21 @@ nav_order: 2
 * facebook for uppervalley young adults
 
 ----
-# 2. Reaching out
+## 2. Reaching out
 
-# 2-1. Consent Form Docusign
+### 2-1. Consent Form Docusign
 * [create link]()
 * [dev comments] where to store this docusign file?
-
-# 2-2. Questionnaire
+---
+### 2-2. Questionnaire
 [Github CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
 * compensation for filling out questionnaire [payment info]()
 * Data storage
-
-# 2-3. Emails
-## Acuity
+---
+### 2-3. Emails
+#### Acuity
 [ fill in with detailed pipelines ]
-
-## email templates
+---
+#### email templates
 * [Google Drive email templates](https://docs.google.com/document/d/1InjkQ1vOsiuxvA0znb06FO8GiNn350IK3J1rwRas9Yw/edit?usp=sharing)
 * They will be stored in [Github - CANlab Data and Equipment Private ## has to be added](https://github.com/canlab/CANlab_data_and_equipment_private)

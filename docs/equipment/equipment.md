@@ -6,6 +6,7 @@ has_children: true
 permalink: /equipment
 ---
 # equipment
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }

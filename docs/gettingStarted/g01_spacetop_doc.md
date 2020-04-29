@@ -6,10 +6,26 @@ permalink: /gettingstarted/sdocuments
 nav_order: 1
 ---
 
-# Tasks
+
+# Getting Started
 {: .no_toc }
 
-# I. spacetop related documents
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## I. spacetop related documents
 * IRB
 * CPHS Dartmouth: 31937
 * CPHS consent approval
+---
+## 2. ST participants
+---
+## 3. fMRI protocols
+* [Boulder parameters](## link pdf file)
+---
+##
