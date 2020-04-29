@@ -12,5 +12,3 @@ permalink: /equipment
 
 1. TOC
 {:toc}
-# [Dartmouth fmri PC](spatialtopology.github.io/equipment/dbic_pcsetup)
-# [TSA 2](spatialtopology.github.io/equipment/tsa2)
