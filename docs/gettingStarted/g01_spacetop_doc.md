@@ -36,4 +36,8 @@ nav_order: 1
 * [Boulder scanner parameters](https://drive.google.com/open?id=12GMna6raj5alerQTRQwMcfspyaz7MYF3)
 
 ---
-##
+## REDcap
+* [list of questionnaires](https://docs.google.com/spreadsheets/d/151BOVWFutzlmH9PEmfAH6nZr3RKv_4CxOkrlYQbsQzE/edit?usp=sharing)
+* maintained in [add description]() 
+* Boulder - Mickela
+* Dartmouth - Victoria
