@@ -27,7 +27,8 @@ nav_order: 1
 
 ---
 
-## 2. ST participants
+## ST participants
+* restricted access: Spacetop Googledrive > A_Protocol > Participant Info/Data 
 
 ---
 
