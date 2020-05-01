@@ -19,3 +19,4 @@ nav_order: 4
 
 * Comparing Boulder and Dartmouth paperwork [Google sheets](https://docs.google.com/spreadsheets/d/1VRdqW3Rk1XGJEpTqqY8-6lSuCWt44CUtEkyMeiWjTwI/edit#gid=0)
 * REDcap updates
+* [Transfer meeting notes 0423](https://docs.google.com/document/d/1rPlvoxNq_wE2dfQ98CoY90BjKwwQN47lLfGTryt-MHQ/edit?usp=sharing)
