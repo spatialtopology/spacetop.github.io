@@ -18,7 +18,7 @@ nav_order: 1
 
 ---
 
-## I. spacetop related documents
+## Spacetop related documents
 * IRB
 * CPHS Dartmouth: 31937
 * CPHS consent approval
@@ -32,7 +32,7 @@ nav_order: 1
 ---
 
 ## 3. fMRI protocols
-* [Boulder parameters](## link pdf file)
+* [Boulder scanner parameters](https://drive.google.com/open?id=12GMna6raj5alerQTRQwMcfspyaz7MYF3)
 
 ---
 ##
