@@ -27,8 +27,11 @@ nav_order: 2
 
 
 ### Dartmouth
+
 [Dartmouth recruitment guide - maintained by Victoria](https://docs.google.com/document/d/165i-cUNlEvyMIarSm3SM0vI3M0LW2YZz_m5Vg0BFJis/edit)
+
 [Dartmouth recruitment sources - maintained by Bethany](https://docs.google.com/document/d/1utZSH5HqwY3-RU8UrrRYeylz6cv5Rwz1nm_Byg_TxA8/edit?usp=sharing)
+
 * CANlab Facebook
 * Flyering campus and hanover
 * Sona for undergrad screening
