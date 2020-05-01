@@ -32,7 +32,7 @@ nav_order: 1
 
 ---
 
-## 3. fMRI protocols
+## fMRI protocols
 * [Boulder scanner parameters](https://drive.google.com/open?id=12GMna6raj5alerQTRQwMcfspyaz7MYF3)
 
 ---
