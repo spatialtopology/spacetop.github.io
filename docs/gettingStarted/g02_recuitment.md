@@ -25,7 +25,6 @@ nav_order: 2
 * Social media ads: we're doing facebook ads. Read more about [payment info]()
 * CANlab website
 
----
 
 ### Dartmouth
 * CANlab Facebook
@@ -43,14 +42,12 @@ nav_order: 2
 * [create link]()
 * [dev comments] where to store this docusign file?
 
----
 
 ### 2-2. Questionnaire
 [Github CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
 * compensation for filling out questionnaire [payment info]()
 * Data storage
 
----
 
 ### 2-3. Emails
 
@@ -58,7 +55,6 @@ nav_order: 2
 
 [ fill in with detailed pipelines ]
 
----
 
 #### email templates
 * [Google Drive email templates](https://docs.google.com/document/d/1InjkQ1vOsiuxvA0znb06FO8GiNn350IK3J1rwRas9Yw/edit?usp=sharing)
