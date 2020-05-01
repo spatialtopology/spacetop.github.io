@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-# Getting Started
+# Spacetop Documents
 {: .no_toc }
 
 ## Table of contents
