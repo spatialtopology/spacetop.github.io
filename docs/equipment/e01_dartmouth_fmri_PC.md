@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DBIC PC setup
-parent: equipment
+parent: Equipment
 nav_order: 2
 has_children: true
 permalink: /equipment/dbic_pcsetup

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TSA-II
-parent: equipment
+parent: Equipment
 nav_order: 1
 has_children: true
 permalink: /equipment/docker
