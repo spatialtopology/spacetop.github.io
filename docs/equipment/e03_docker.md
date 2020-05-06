@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TSA-II
+title: Singularity Containers
 parent: Equipment
 nav_order: 1
 has_children: true
