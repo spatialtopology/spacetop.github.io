@@ -33,10 +33,10 @@ permalink: /equipment/dbic_dailysetup
 * Turn on Volume box: Pyle. Stereo power amplifier 2x15w
 * Plug audio splitter (aux cable) to Stim PC
 
-### For Response:
+#### For Response:
 * Configure button box
-    * For 2-button box: select HID key 2x2 12345
-    * For trackball: select track
+      * For 2-button box: select HID key 2x2 12345
+      * For trackball: select track
 * Plug button box USB to Stim PC
 * If using multiple response devices, be ready for switching out devices
 * Prep Trackball in advance and put “on deck”
@@ -47,10 +47,10 @@ permalink: /equipment/dbic_dailysetup
 * Get safety screening signed
 * Log participant into REDcap system
 * (Chrome comes on automatically which allows adding a participant)
-    * 1. Dartmouth id > SID
-    * 2. Gender (default female. Double check if participant is male!)
-    * 3. Race/ethnicity (information should be filled in safety form)
-    * 4. Make sure to get the correct DBIC study number in
+    1. Dartmouth id > SID
+    2. Gender (default female. Double check if participant is male!)
+    3. Race/ethnicity (information should be filled in safety form)
+    4. Make sure to get the correct DBIC study number in
 * Add SID and accession number to scanner notebook
 * Add SID and accession number to ST_participant spreadsheet
 
