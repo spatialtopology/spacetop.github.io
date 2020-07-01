@@ -1,20 +1,21 @@
 ---
 layout: default
-title: Data storage
-parent: Running experiments
-permalink: /runningexp/datastorage
-nav_order: 4
+title: Data Storage
+parent: Data Storage & Analysis
+nav_order: 1
+permalink: /data_analysis/data
 ---
 
-# Data Storage
-{: .no_toc }
-{: .fs-11 }
+# Data storage
 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+# Boulder fMRI sequence
+* [pdf link]()
 
 # Boulder data at CU Boulder PETA library
 * Paths on blanca to raw data:
