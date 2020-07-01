@@ -19,12 +19,16 @@ nav_order: 1
 
 ---
 
-## 1. First Point of Contac
+## 1. First Point of Contac5
 
 
 ### Dartmouth
 
 [Dartmouth recruitment guide - maintained by Victoria](https://docs.google.com/document/d/165i-cUNlEvyMIarSm3SM0vI3M0LW2YZz_m5Vg0BFJis/edit)
+* Recruit → Potential participants fill out Eligibility Form
+* Screen potential participants from Eligibility Form
+* Contact and send link to online questionnaires
+* Schedule first/all session(s)
 
 [Dartmouth recruitment sources - maintained by Bethany](https://docs.google.com/document/d/1utZSH5HqwY3-RU8UrrRYeylz6cv5Rwz1nm_Byg_TxA8/edit?usp=sharing)
 

@@ -2,7 +2,7 @@
 layout: default
 title: Running experiments
 permalink: /runningexp
-nav_order: 3
+nav_order: 4
 has_children: true
 
 ---
@@ -15,10 +15,3 @@ has_children: true
 
 
 ---
-
-
-## Starting a new project?
-{: .no_toc }
-* [Grant proposal]()
-* [IRB Dartmouth](https://docs.google.com/document/d/1n40cd_tpweWnyJhhAw2N_eQjr18MHgZkQYiiOobZBiU/edit?usp=sharing) - Spacetop Google Drive > Admin > IRB > 31937_Spacetop
-* [Housekeeping / Dartmouth meeting notes](https://docs.google.com/document/d/1n40cd_tpweWnyJhhAw2N_eQjr18MHgZkQYiiOobZBiU/edit?usp=sharing)
