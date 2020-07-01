@@ -19,7 +19,7 @@ nav_order: 1
 
 ---
 
-# 1. First Point of Contac5
+# 1. First Point of Contact
 
 
 ## Dartmouth
