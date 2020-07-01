@@ -30,4 +30,8 @@ links to the github repo
 
 # Running Scripts
 * social influence{: .fs-6 .fw-300 }
-location: social_influence > scripts > step01_taskscripts > RUN_separate_social_influence.m
+#### location:
+social_influence > scripts > step01_taskscripts > RUN_separate_social_influence.m
+#### prompted:
+session number (as integer)
+participant number (as integer)

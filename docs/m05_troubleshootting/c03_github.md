@@ -6,10 +6,8 @@ permalink: /troubleshooting/git
 nav_order: 3
 ---
 
-# Scripts
+# Github troubleshooting
 {: .no_toc }
-[ST participant]()
-
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -17,6 +15,6 @@ nav_order: 3
 1. TOC
 {:toc}
 
-## experiment Scripts
+## Experiment Scripts
 
 ## running Scripts
