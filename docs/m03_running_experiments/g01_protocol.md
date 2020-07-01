@@ -8,7 +8,7 @@ nav_order: 1
 
 # Protocols
 {: .no_toc }
-{: .fs-10 }
+{: .fs-11 }
 
 ## Table of contents
 {: .no_toc .text-delta }

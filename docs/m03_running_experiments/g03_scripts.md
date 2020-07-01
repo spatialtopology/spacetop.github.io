@@ -8,7 +8,7 @@ nav_order: 3
 
 # Scripts
 {: .no_toc }
-{: .fs-9 }
+{: .fs-11 }
 
 
 ## Table of contents
@@ -29,9 +29,12 @@ links to the github repo
 {: .fs-6 .fw-300 }
 
 # Running Scripts
-* social influence{: .fs-6 .fw-300 }
+* social influence
+{: .fs-6 .fw-300 }
+
 #### location:
 social_influence > scripts > step01_taskscripts > RUN_separate_social_influence.m
+
 #### prompted:
 session number (as integer)
 participant number (as integer)

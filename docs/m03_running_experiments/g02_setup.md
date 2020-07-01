@@ -8,7 +8,7 @@ nav_order: 2
 
 # Equipment setup
 {: .no_toc }
-{: .fs-9 }
+{: .fs-11 }
 
 
 ## Table of contents

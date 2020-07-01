@@ -8,7 +8,7 @@ nav_order: 4
 
 # Data Storage
 {: .no_toc }
-{: .fs-9 }
+{: .fs-11 }
 
 ## Table of contents
 {: .no_toc .text-delta }
