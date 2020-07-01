@@ -21,6 +21,15 @@ Building containers can help you do reproducible research while alleviating the 
 
 Docker and Singularity are platforms that allow you to build and execute containers.
 
+Reasons I had to build a container:
+I needed pymvpa and nilearn, which had to run on CU's cluster. This was around 2018, prior to the conda environment feature that is now enabled on Summit and Blanca. Hence, I needed a singularity container, instead of a docker container. However, converting a docker container to singularity is easy, once you have singularity on your local machine.
+
+# 0. install singularity on your local machine
+Please check here.
+* https://singularity.lbl.gov/install-mac
+* https://singularity.lbl.gov/install-linux
+* https://singularity.lbl.gov/install-windows
+
 # 1. First start off with installing vagrant
 * where I've installed it: Documents/singularity-vm
 * change directory into it and run the following lines
@@ -62,7 +71,7 @@ scp -P 2222 vagrant@127.0.0.1:/home/vagrant/debian.def .
 scp -P 2222 vagrant@127.0.0.1:/home/vagrant/definition.def .
 ```
 
-# 4. create "Dockerfile"
+# 4. Build a docker container and convert it to singularity
 Example: I built FSL based on https://github.com/BIDS-Apps/dockerfile-templates/blob/master/FSL/Dockerfile
 go to the local directory where dockerfile exists
 ```
