@@ -19,11 +19,7 @@ nav_order: 1
 
 ---
 
-## 1. First Point of Contact
-### Boulder
-* Physical Flyers
-* Social media ads: we're doing facebook ads. Read more about [payment info]()
-* CANlab website
+## 1. First Point of Contac
 
 
 ### Dartmouth
@@ -64,3 +60,9 @@ nav_order: 1
 #### email templates
 * [Google Drive email templates](https://docs.google.com/document/d/1InjkQ1vOsiuxvA0znb06FO8GiNn350IK3J1rwRas9Yw/edit?usp=sharing)
 * They will be stored in [Github - CANlab Data and Equipment Private ## has to be added](https://github.com/canlab/CANlab_data_and_equipment_private)
+
+boulder
+### Boulder
+* Physical Flyers
+* Social media ads: we're doing facebook ads. Read more about [payment info]()
+* CANlab website
