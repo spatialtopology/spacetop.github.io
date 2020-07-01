@@ -17,7 +17,7 @@ title:  "SpaceTop"
 baseurl:  "/" # the subpath of your site, e.g. /blog
 url:  "https://spatialtopology.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "spatialtopology/spatialtopology.github.io"
-exclude:  ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+exclude:  ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "related_doc"]
 #theme                    : pmarsceill/just-the-docs
 remote_theme: "pmarsceill/just-the-docs"
 title_separator:  "-"
