@@ -6,10 +6,9 @@ permalink: /runningexp/datastorage
 nav_order: 4
 ---
 
-# Data Storgae
+# Data Storage
 {: .no_toc }
-[ST participant]()
-
+{: .fs-9 }
 
 ## Table of contents
 {: .no_toc .text-delta }

@@ -8,6 +8,7 @@ nav_order: 1
 
 # Recruitment
 {: .no_toc }
+{: .fs-9 }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -17,6 +18,6 @@ nav_order: 1
 
 ---
 
-## Task info + session checklists [merge]
-## fMRI protocols
-## REDCap
+# Task info + session checklists [merge]
+# fMRI protocols
+# REDCap

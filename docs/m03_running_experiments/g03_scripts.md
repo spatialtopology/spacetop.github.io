@@ -8,7 +8,7 @@ nav_order: 3
 
 # Scripts
 {: .no_toc }
-[ST participant]()
+{: .fs-9 }
 
 
 ## Table of contents
@@ -17,6 +17,6 @@ nav_order: 3
 1. TOC
 {:toc}
 
-## experiment Scripts
+# experiment Scripts
 
-## running Scripts
+# running Scripts

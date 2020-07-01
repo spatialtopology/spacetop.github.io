@@ -8,7 +8,7 @@ nav_order: 2
 
 # Equipment setup
 {: .no_toc }
-[ST participant]()
+{: .fs-9 }
 
 
 ## Table of contents
@@ -17,10 +17,10 @@ nav_order: 2
 1. TOC
 {:toc}
 
-## 1. DBIC PC setup + DBIC daily setup
+# 1. DBIC PC setup + DBIC daily setup
 
-## 2. TSA-II
+# 2. TSA-II
 
-## 3. Singularity container
+# 3. Singularity container
 
-## 4. Installing PTB on linux
+# 4. Installing PTB on linux
