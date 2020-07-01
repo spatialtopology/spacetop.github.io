@@ -8,7 +8,7 @@ nav_order: 1
 
 # Protocols
 {: .no_toc }
-{: .fs-9 }
+{: .fs-10 }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -18,8 +18,7 @@ nav_order: 1
 
 ---
 
-## fMRI protocols
-{: .fs-8 }
+# fMRI protocols
 
 * [scan 1 master protocol](https://docs.google.com/document/d/1cwrJDC7tmMO6fwplcRVyyn8tpM04JTQAVwdiWWCiHy4/edit?usp=sharing)
 * [scan 2 master protocol](https://docs.google.com/document/d/1UUFopzMc_TJ1ou1UpR2AEMAMvkMaTE9fvH5HAcNx2Yw/edit?usp=sharing)
