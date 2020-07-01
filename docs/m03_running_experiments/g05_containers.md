@@ -17,12 +17,16 @@ nav_order: 5
 1. TOC
 {:toc}
 
-Building containers can help you do reproducible research while alleviating the pain of installing programs/packages every time you're working in a new environment.
+---
+Containers aid reproducible research, while alleviating the pain of installing programs/packages every time you're working in a new environment.
 
 Docker and Singularity are platforms that allow you to build and execute containers.
 
 Reasons I had to build a container:
 I needed pymvpa and nilearn, which had to run on CU's cluster. This was around 2018, prior to the conda environment feature that is now enabled on Summit and Blanca. Hence, I needed a singularity container, instead of a docker container. However, converting a docker container to singularity is easy, once you have singularity on your local machine.
+
+---
+
 
 # 0. install singularity on your local machine
 Please check here.
