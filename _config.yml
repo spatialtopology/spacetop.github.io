@@ -107,11 +107,11 @@ color_scheme: nil
 # ga_tracking: UA-2709176-10
 
 plugins:
- - jekyll-feed
- - jekyll-redirect-from
- - jekyll-seo-tag
- - jekyll-sitemap
- - jekyll-avatar
- - jemoji
- - jekyll-mentions
- - jekyll-include-cache
+- jekyll-coffeescript
+- jekyll-gist
+- jekyll-github-metadata
+- jekyll-optional-front-matter
+- jekyll-paginate
+- jekyll-readme-index
+- jekyll-titles-from-headings
+- jekyll-relative-links
