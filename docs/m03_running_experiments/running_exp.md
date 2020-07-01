@@ -4,7 +4,6 @@ title: Running experiments
 permalink: /runningexp
 nav_order: 4
 has_children: true
-
 ---
 
 # Running experiments
@@ -16,6 +15,3 @@ Running experiments involves 4 components: 1) having a good idea of the protocol
 
 
 {: toc }
-
-
----

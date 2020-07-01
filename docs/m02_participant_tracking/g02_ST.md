@@ -16,3 +16,10 @@ nav_order: 1
 
 1. TOC
 {:toc}
+
+please plug in the following to the spreadsheet whenever you run a participant
+{: .fs-6 .fw-300 }
+
+* accession number (e.g. A###)
+* sid number (sid-000###)
+* BIDS number (sub-0001)

@@ -19,10 +19,10 @@ nav_order: 1
 
 ---
 
-## 1. First Point of Contac5
+# 1. First Point of Contac5
 
 
-### Dartmouth
+## Dartmouth
 
 [Dartmouth recruitment guide - maintained by Victoria](https://docs.google.com/document/d/165i-cUNlEvyMIarSm3SM0vI3M0LW2YZz_m5Vg0BFJis/edit)
 * Recruit → Potential participants fill out Eligibility Form
@@ -41,32 +41,33 @@ nav_order: 1
 * facebook for uppervalley young adults
 
 ----
-## 2. Reaching out
 
-### 2-1. Consent Form Docusign
+# 2. Reaching out
+
+## 2-1. Consent Form Docusign
 * [create link]()
 * [dev comments] where to store this docusign file?
 
 
-### 2-2. Questionnaire
+## 2-2. Questionnaire
 [Github CANlab Data and Equipment Private](https://github.com/canlab/CANlab_data_and_equipment_private)
 * compensation for filling out questionnaire [payment info]()
 * Data storage
 * Redcap (see [spacetop documents](https://spatialtopology.github.io/gettingstarted/sdocuments))
 
-### 2-3. Emails
+## 2-3. Emails templates
 
-#### Acuity
+### Acuity
 
 [ fill in with detailed pipelines ]
 
 
-#### email templates
+### email templates
 * [Google Drive email templates](https://docs.google.com/document/d/1InjkQ1vOsiuxvA0znb06FO8GiNn350IK3J1rwRas9Yw/edit?usp=sharing)
 * They will be stored in [Github - CANlab Data and Equipment Private ## has to be added](https://github.com/canlab/CANlab_data_and_equipment_private)
 
-boulder
-### Boulder
+
+# 3. Boulder resources
 * Physical Flyers
 * Social media ads: we're doing facebook ads. Read more about [payment info]()
 * CANlab website

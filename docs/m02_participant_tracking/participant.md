@@ -16,6 +16,3 @@ Participant tracking is required during 1) recruitment phase and 2) experimental
 
 ## Table of contents
 {: toc }
-
-
----
