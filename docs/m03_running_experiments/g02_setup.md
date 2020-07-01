@@ -17,10 +17,10 @@ nav_order: 2
 1. TOC
 {:toc}
 
-# 1. DBIC PC setup + DBIC daily setup
+# DBIC PC setup + DBIC daily setup
 
-# 2. TSA-II
+# TSA-II
 
-# 3. Singularity container
+# Singularity container
 
-# 4. Installing PTB on linux
+# Installing PTB on linux
