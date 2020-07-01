@@ -9,7 +9,7 @@ nav_order: 1
 # Recruitment
 {: .no_toc }
 
-![Recruitment]({{ site.url }}/images/recruitment.png)
+<!-- ![Recruitment]({{ site.url }}/images/recruitment.png) -->
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -24,7 +24,8 @@ nav_order: 1
 
 ## Dartmouth
 
-[Dartmouth recruitment guide - maintained by Victoria](https://docs.google.com/document/d/165i-cUNlEvyMIarSm3SM0vI3M0LW2YZz_m5Vg0BFJis/edit)
+[Dartmouth Recruitment Guide](https://docs.google.com/document/d/165i-cUNlEvyMIarSm3SM0vI3M0LW2YZz_m5Vg0BFJis/edit){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 * Recruit → Potential participants fill out Eligibility Form
 * Screen potential participants from Eligibility Form
 * Contact and send link to online questionnaires
