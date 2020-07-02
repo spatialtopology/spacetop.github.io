@@ -89,14 +89,14 @@ For Response:
 {: .fs-3}
 ---
 
-1. Matlab
+6. Matlab
 {: .fs-6}
 * [ ] Open all relevant tasks during T1
 * [ ] Double-check participant - we cannot mess this one up
 * [ ] Pay attention when runs start and end
 * [ ] Start key will be ‘s’ before the trigger.
 * [ ] End key will be ‘e’
-{: .fs-3}
+{: .fs-3 .px-6}
 
 ---
 
