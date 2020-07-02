@@ -14,7 +14,7 @@ permalink: /data_analysis/data
 1. TOC
 {:toc}
 
-# Boulder fMRI sequence
+# Boulder fMRI sequence {: .label .label-yellow }
 * [pdf link]()
 
 # Boulder data at CU Boulder PETA library
@@ -28,4 +28,4 @@ permalink: /data_analysis/data
 # Boulder data transferred to Dartmouth
 * `/dartfs-hpc/rc/lab/C/CANlab/labdata/data/spacetop/boulder`
 
-# Dartmouth data
+# Dartmouth data {: .label .label-yellow }

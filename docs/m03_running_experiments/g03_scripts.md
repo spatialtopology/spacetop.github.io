@@ -28,7 +28,7 @@ links to the github repo
 * [Videos](https://github.com/spatialtopology/Spatial_Topology_Videos)
 {: .fs-6 .fw-300 }
 
-# Running Scripts
+# Running Scripts {: .label .label-yellow }
 * social influence
 {: .fs-6 .fw-300 }
 

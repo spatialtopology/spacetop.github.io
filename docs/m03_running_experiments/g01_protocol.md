@@ -27,4 +27,4 @@ nav_order: 1
 
 
 
-# Task info + session checklists [merge]
+# Task info + session checklists {: .label .label-yellow }

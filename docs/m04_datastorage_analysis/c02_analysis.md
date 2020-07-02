@@ -37,4 +37,4 @@ While developing analysis code may take place in separate/private repositories, 
 ---
 
 
-# fMRI analysis
+# fMRI analysis {: .label .label-yellow }

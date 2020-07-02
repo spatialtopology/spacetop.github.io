@@ -6,7 +6,7 @@ has_children: true
 permalink: /troubleshooting
 ---
 
-# Trouble Shooting
+# Trouble Shooting {: .label .label-yellow }
 {: .fs-9}
 
 1. While running experiments
