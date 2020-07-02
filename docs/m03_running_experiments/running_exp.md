@@ -22,8 +22,8 @@ Fast links
 links required per session
 {: .text-delta}
 
-[ST participants](https://docs.google.com/document/d/1cwrJDC7tmMO6fwplcRVyyn8tpM04JTQAVwdiWWCiHy4/edit?usp=sharing){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Daily setup checklist](https://docs.google.com/document/d/1Xj3KeMtZRq-R_-78stY_sAlMGLKBEqkvL2FKDcMgtzc/edit?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 }
+[ST participants](https://docs.google.com/document/d/1cwrJDC7tmMO6fwplcRVyyn8tpM04JTQAVwdiWWCiHy4/edit?usp=sharing){: .btn .btn-primary  .mb-4 .mb-md-0 .mr-2 }
+[Daily setup checklist](https://docs.google.com/document/d/1Xj3KeMtZRq-R_-78stY_sAlMGLKBEqkvL2FKDcMgtzc/edit?usp=sharing){: .btn .mb-4 .mb-md-0 }
 <br>
 links dependent on session
 {: .text-delta}
