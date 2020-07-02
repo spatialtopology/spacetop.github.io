@@ -32,15 +32,18 @@ nav_order: 2
 * [ ] turn projector on (this takes 7 minutes)
 * [ ] When running experiment, always make sure "Shutter off"
 * [ ] + Check projector settings by clicking on the “status” menu
+{: .fs-3}
 
 ---
 
 ## 2. Stim PC and MRI devices
 * [ ] Screen: Plug video VGA via USB-C adapter to Stim PC
+{: .fs-3}
 
 #### For Audio:
 * [ ] Turn on Volume box: Pyle. Stereo power amplifier 2x15w
 * [ ] Plug audio splitter (aux cable) to Stim PC
+{: .fs-3}
 
 #### For Response:
 * [ ] Configure button box
@@ -49,19 +52,22 @@ nav_order: 2
 * [ ] Plug button box USB to Stim PC
 * [ ] If using multiple response devices, be ready for switching out devices
 * [ ] Prep Trackball in advance and put “on deck”
-
+{: .fs-3}
 ---
 
 ## 3. Screening form
 * [ ] Get safety screening signed
 * [ ] Log participant into REDcap system
 * [ ] (Chrome comes on automatically which allows adding a participant)
+```yaml
     1. Dartmouth id > SID
     2. Gender (default female. Double check if participant is male!)
     3. Race/ethnicity (information should be filled in safety form)
     4. Make sure to get the correct DBIC study number in
+```
 * [ ] Add SID and accession number to scanner notebook
 * [ ] Add SID and accession number to ST_participant spreadsheet
+{: .fs-3}
 
 ---
 
@@ -71,7 +77,7 @@ nav_order: 2
 * [ ] Click participant, test, and make sure "external control" is on.
     * External control “on”: External control > check box
 * [ ] Connect to experiment computer
-
+{: .fs-3}
 ---
 
 ## 5. Matlab
@@ -80,6 +86,7 @@ nav_order: 2
 * [ ] Pay attention when runs start and end
 * [ ] Start key will be ‘s’ before the trigger.
 * [ ] End key will be ‘e’
+{: .fs-3}
 
 ---
 
@@ -88,6 +95,7 @@ nav_order: 2
 * [ ] Restock the scrubs
 * [ ] If laundry basket full, take it up
 * [ ] Turn the TV / lights off
+{: .fs-3}
 
 ---
 
@@ -99,6 +107,7 @@ nav_order: 2
 * open medoc softward on medoc-PC
 * check if `external control` is "enabled"
 * plug in participant information (use BIDS id)
+{: .fs-3}
 
 ---
 
