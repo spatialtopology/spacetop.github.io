@@ -28,5 +28,6 @@ nav_order: 1
 
 
 # Task info + session checklists
+{: .d-inline-block }
 Coming soon
 {: .label .label-yellow }

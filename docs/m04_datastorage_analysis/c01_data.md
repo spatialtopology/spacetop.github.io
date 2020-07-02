@@ -16,6 +16,7 @@ permalink: /data_analysis/data
 
 # Boulder fMRI sequence
 * [pdf link]()
+{: .d-inline-block }
 To be added
 {: .label .label-red }
 
@@ -31,5 +32,6 @@ To be added
 * `/dartfs-hpc/rc/lab/C/CANlab/labdata/data/spacetop/boulder`
 
 # Dartmouth data
+{: .d-inline-block }
 Coming soon
 {: .label .label-yellow }

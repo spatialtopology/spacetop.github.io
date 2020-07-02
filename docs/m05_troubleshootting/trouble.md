@@ -8,6 +8,7 @@ permalink: /troubleshooting
 
 # Trouble Shooting
 {: .fs-9}
+{: .d-inline-block }
 To be updated
 {: .label .label-red}
 

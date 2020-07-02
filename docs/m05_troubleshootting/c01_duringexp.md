@@ -18,6 +18,9 @@ nav_order: 1
 ---
 
 # common errors
+{: .d-inline-block }
+To be updated
+{: .label .label-red }
 * document participants that had noteworthy errors etc
 * document matlab errors
 * document TSA errors

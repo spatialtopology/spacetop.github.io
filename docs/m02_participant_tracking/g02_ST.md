@@ -13,8 +13,7 @@ nav_order: 1
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
-{:toc}
+
 
 please plug in the following to the spreadsheet whenever you run a participant
 {: .fs-6 .fw-300 }

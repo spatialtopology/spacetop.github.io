@@ -38,5 +38,6 @@ While developing analysis code may take place in separate/private repositories, 
 
 
 # fMRI analysis
+{: .d-inline-block }
 Coming soon
 {: .label .label-yellow }

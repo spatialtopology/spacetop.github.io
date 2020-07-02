@@ -29,6 +29,7 @@ links to the github repo
 {: .fs-6 .fw-300 }
 
 # Running Scripts
+{: .d-inline-block }
 To be updated
 {: .label .label-red }
 * social influence
