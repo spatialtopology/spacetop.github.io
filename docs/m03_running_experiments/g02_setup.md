@@ -82,7 +82,7 @@ Screening form
     1. Dartmouth id > SID
     2. Gender (default female. Double check if participant is male!)
     3. Race/ethnicity (information should be filled in safety form)
-    4. Make sure to get the correct DBIC study number in
+    4. Make sure to get the correct DBIC study number in - spacetop is 1076
 ```
 
 * [ ] Add SID and accession number to scanner notebook
@@ -90,10 +90,9 @@ Screening form
 {: .fs-3 .px-6}
 
 ---
-
+{: .d-inline-block }
 step 4.
 {: .label .label-blue}
-{: .d-inline-block }
 Medoc TSA setup
 {: .fs-6}
 * [ ] Turn TSA-II on before experiment, for safety test to pass
