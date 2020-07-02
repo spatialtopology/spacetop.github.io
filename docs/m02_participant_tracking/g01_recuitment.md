@@ -44,6 +44,7 @@ nav_order: 1
 # REDCap
 * [REDcap guide](https://docs.google.com/presentation/d/1_sz3M81eBZ0D1bNgAAZhlGy1iQqbtFwj3YtBhLQMmII/edit?usp=sharing) - Victoria
 
+
 To be updated
 {: .label .label-red }
 # Consent Form
@@ -55,7 +56,7 @@ To be updated
 
 ### email templates
 * [Google Drive email templates](https://docs.google.com/document/d/1InjkQ1vOsiuxvA0znb06FO8GiNn350IK3J1rwRas9Yw/edit?usp=sharing)
-* They will be stored in [Github - CANlab Data and Equipment Private ## has to be added](https://github.com/canlab/CANlab_data_and_equipment_private) To be updated{: .label .label-red}
+* They will be stored in [Github - CANlab Data and Equipment Private ## has to be added](https://github.com/canlab/CANlab_data_and_equipment_private) [To be updated]{: .label .label-red}
 
 To be updated
 {: .label .label-red white-space:nowrap;}
