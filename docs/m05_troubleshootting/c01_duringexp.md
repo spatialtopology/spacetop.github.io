@@ -9,8 +9,6 @@ nav_order: 1
 # During experiments / participant errors
 {: .no_toc }
 
-![Recruitment]({{ site.url }}/images/recruitment.png)
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -20,10 +18,13 @@ nav_order: 1
 ---
 
 # common errors
+* document participants that had noteworthy errors etc
+* document matlab errors
+* document TSA errors
 
 ## participant errors
 log of experiments
 
-## troubleshooting Medoc
+## troubleshooting matlab code
 
-##
+## troubleshooting Medoc
