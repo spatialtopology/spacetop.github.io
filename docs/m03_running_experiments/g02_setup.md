@@ -26,7 +26,7 @@ nav_order: 2
 
 # DBIC daily setup
 
-1. Projector Computer
+step 1. Projector Computer
 {: .fs-6}
 * [ ] Log in: [ username: mriuser, password: mriuser ]
 * [ ] On login, Chrome automatically brings up login + pass for projector control
@@ -37,7 +37,7 @@ nav_order: 2
 
 ---
 
-1. Stim PC and MRI devices
+step 2. Stim PC and MRI devices
 {: .fs-6}
 * [ ] Screen: Plug video VGA via USB-C adapter to Stim PC
 {: .fs-3 .px-6}
@@ -59,7 +59,7 @@ For Response:
 {: .fs-3 .px-6}
 ---
 
-1. Screening form
+step 3. Screening form
 {: .fs-6}
 * [ ] Get safety screening signed
 * [ ] Log participant into REDcap system
@@ -79,17 +79,19 @@ For Response:
 
 ---
 
-1. Medoc
+step 4. Medoc
 {: .fs-6}
 * [ ] Turn TSA-II on before experiment, for safety test to pass
+* [ ] check green light on TSA-II
+* [ ] check connection between TSA-II & medoc-PC (USB!!)
 * [ ] Turn Medoc PC on and open Medoc software
 * [ ] Click participant, test, and make sure "external control" is on.
     * External control “on”: External control > check box
-* [ ] Connect to experiment computer
+* [ ] plug in participant information (use BIDS id)
 {: .fs-3 .px-6}
 ---
 
-6. Matlab
+step 5. Matlab
 {: .fs-6}
 * [ ] Open all relevant tasks during T1
 * [ ] Double-check participant - we cannot mess this one up
@@ -100,7 +102,7 @@ For Response:
 
 ---
 
-1. After scanning
+step 6. After scanning
 {: .fs-6}
 * [ ] Pull out trigger / audio from pc
 * [ ] Restock the scrubs
@@ -111,7 +113,7 @@ For Response:
 ---
 
 
-# TSA-II
+# TSA-II setup
 * [ ] plug TSA-II cord and medoc-PC cord
 * [ ] wait until TSA-II turns green
 * [ ] connect TSA-II USB to medoc-PC
