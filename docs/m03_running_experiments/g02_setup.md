@@ -26,7 +26,10 @@ nav_order: 2
 
 # DBIC daily setup
 
-step 1. Projector Computer
+step 1.
+{: .label .label-blue}
+{: .d-inline-block }
+Projector Computer
 {: .fs-6}
 * [ ] Log in: [ username: mriuser, password: mriuser ]
 * [ ] On login, Chrome automatically brings up login + pass for projector control
@@ -37,7 +40,10 @@ step 1. Projector Computer
 
 ---
 
-step 2. Stim PC and MRI devices
+step 2.
+{: .label .label-blue}
+{: .d-inline-block }
+Stim PC and MRI devices
 {: .fs-6}
 * [ ] Screen: Plug video VGA via USB-C adapter to Stim PC
 {: .fs-3 .px-6}
@@ -59,7 +65,10 @@ For Response:
 {: .fs-3 .px-6}
 ---
 
-step 3. Screening form
+step 3.
+{: .label .label-blue}
+{: .d-inline-block }
+Screening form
 {: .fs-6}
 * [ ] Get safety screening signed
 * [ ] Log participant into REDcap system
@@ -79,7 +88,10 @@ step 3. Screening form
 
 ---
 
-step 4. Medoc
+step 4.
+{: .label .label-blue}
+{: .d-inline-block }
+Medoc TSA setup
 {: .fs-6}
 * [ ] Turn TSA-II on before experiment, for safety test to pass
 * [ ] check green light on TSA-II
@@ -91,7 +103,10 @@ step 4. Medoc
 {: .fs-3 .px-6}
 ---
 
-step 5. Matlab
+step 5.
+{: .label .label-blue}
+{: .d-inline-block }
+Matlab
 {: .fs-6}
 * [ ] Open all relevant tasks during T1
 * [ ] Double-check participant - we cannot mess this one up
@@ -102,24 +117,15 @@ step 5. Matlab
 
 ---
 
-step 6. After scanning
+step 6.
+{: .label .label-blue}
+{: .d-inline-block }
+After scanning
 {: .fs-6}
 * [ ] Pull out trigger / audio from pc
 * [ ] Restock the scrubs
 * [ ] If laundry basket full, take it up
 * [ ] Turn the TV / lights off
-{: .fs-3 .px-6}
-
----
-
-
-# TSA-II setup
-* [ ] plug TSA-II cord and medoc-PC cord
-* [ ] wait until TSA-II turns green
-* [ ] connect TSA-II USB to medoc-PC
-* [ ] open medoc softward on medoc-PC
-* [ ] check if `external control` is "enabled"
-* [ ] plug in participant information (use BIDS id)
 {: .fs-3 .px-6}
 
 ---
