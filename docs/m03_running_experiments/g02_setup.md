@@ -26,6 +26,8 @@ nav_order: 2
 
 # DBIC daily setup
 
+
+{: .d-inline-block }
 step 1.
 {: .label .label-blue}
 {: .d-inline-block }
