@@ -26,8 +26,7 @@ nav_order: 2
 
 # DBIC daily setup
 
-1. Projector Computer
-{: .fs-6}
+1. Projector Computer {: .fs-6}
 
 * [ ] Log in: [ username: mriuser, password: mriuser ]
 * [ ] On login, Chrome automatically brings up login + pass for projector control
@@ -38,17 +37,16 @@ nav_order: 2
 
 ---
 
-2. Stim PC and MRI devices
-{: .fs-6}
+2. Stim PC and MRI devices {: .fs-6}
 * [ ] Screen: Plug video VGA via USB-C adapter to Stim PC
 {: .fs-3}
 
-#### For Audio:
+For Audio {: .text-delta}
 * [ ] Turn on Volume box: Pyle. Stereo power amplifier 2x15w
 * [ ] Plug audio splitter (aux cable) to Stim PC
 {: .fs-3}
 
-#### For Response:
+For Response: {: .text-delta}
 * [ ] Configure button box
       * For 2-button box: select HID key 2x2 12345
       * For trackball: select track
