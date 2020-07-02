@@ -45,7 +45,8 @@ nav_order: 1
 * [REDcap guide](https://docs.google.com/presentation/d/1_sz3M81eBZ0D1bNgAAZhlGy1iQqbtFwj3YtBhLQMmII/edit?usp=sharing) - Victoria
 
 # Consent Form
-{: .label .label-yellow }
+To be updated
+{: .label .label-red }
 * [create link]()
 * [dev comments] where to store this docusign file?
 
@@ -58,7 +59,8 @@ nav_order: 1
 
 
 # Boulder resources
-{: .label .label-yellow }
+To be updated
+{: .label .label-red }
 * Physical Flyers
 * Social media ads: we're doing facebook ads. Read more about [payment info]()
 * CANlab website

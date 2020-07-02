@@ -8,7 +8,8 @@ permalink: /troubleshooting
 
 # Trouble Shooting
 {: .fs-9}
-{: .label .label-yellow }
+To be updated
+{: .label .label-red}
 
 1. While running experiments
 * document participants that had noteworthy errors etc

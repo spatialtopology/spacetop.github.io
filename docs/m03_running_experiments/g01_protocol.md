@@ -27,4 +27,6 @@ nav_order: 1
 
 
 
-# Task info + session checklists {: .label .label-yellow }
+# Task info + session checklists
+Coming soon
+{: .label .label-yellow }
