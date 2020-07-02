@@ -28,26 +28,25 @@ nav_order: 2
 
 1. Projector Computer
 {: .fs-6}
-
 * [ ] Log in: [ username: mriuser, password: mriuser ]
 * [ ] On login, Chrome automatically brings up login + pass for projector control
 * [ ] turn projector on (this takes 7 minutes)
 * [ ] When running experiment, always make sure "Shutter off"
 * [ ] + Check projector settings by clicking on the “status” menu
-{: .fs-3}
+{: .fs-3 .px-6}
 
 ---
 
 1. Stim PC and MRI devices
 {: .fs-6}
 * [ ] Screen: Plug video VGA via USB-C adapter to Stim PC
-{: .fs-3}
+{: .fs-3 .px-6}
 
 For Audio
 {: .text-delta}
 * [ ] Turn on Volume box: Pyle. Stereo power amplifier 2x15w
 * [ ] Plug audio splitter (aux cable) to Stim PC
-{: .fs-3}
+{: .fs-3 .px-6}
 
 For Response:
 {: .text-delta}
@@ -57,7 +56,7 @@ For Response:
 * [ ] Plug button box USB to Stim PC
 * [ ] If using multiple response devices, be ready for switching out devices
 * [ ] Prep Trackball in advance and put “on deck”
-{: .fs-3}
+{: .fs-3 .px-6}
 ---
 
 1. Screening form
@@ -65,6 +64,7 @@ For Response:
 * [ ] Get safety screening signed
 * [ ] Log participant into REDcap system
 * [ ] (Chrome comes on automatically which allows adding a participant)
+{: .fs-3 .px-6}
 
 ```
     1. Dartmouth id > SID
@@ -75,7 +75,7 @@ For Response:
 
 * [ ] Add SID and accession number to scanner notebook
 * [ ] Add SID and accession number to ST_participant spreadsheet
-{: .fs-3}
+{: .fs-3 .px-6}
 
 ---
 
@@ -86,7 +86,7 @@ For Response:
 * [ ] Click participant, test, and make sure "external control" is on.
     * External control “on”: External control > check box
 * [ ] Connect to experiment computer
-{: .fs-3}
+{: .fs-3 .px-6}
 ---
 
 6. Matlab
@@ -94,8 +94,8 @@ For Response:
 * [ ] Open all relevant tasks during T1
 * [ ] Double-check participant - we cannot mess this one up
 * [ ] Pay attention when runs start and end
-* [ ] Start key will be ‘s’ before the trigger.
-* [ ] End key will be ‘e’
+* [ ] Start key will be `s` before the trigger.
+* [ ] End key will be `e`
 {: .fs-3 .px-6}
 
 ---
@@ -106,7 +106,7 @@ For Response:
 * [ ] Restock the scrubs
 * [ ] If laundry basket full, take it up
 * [ ] Turn the TV / lights off
-{: .fs-3}
+{: .fs-3 .px-6}
 
 ---
 
@@ -118,7 +118,7 @@ For Response:
 * [ ] open medoc softward on medoc-PC
 * [ ] check if `external control` is "enabled"
 * [ ] plug in participant information (use BIDS id)
-{: .fs-3}
+{: .fs-3 .px-6}
 
 ---
 
