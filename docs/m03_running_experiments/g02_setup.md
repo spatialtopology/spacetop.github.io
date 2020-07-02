@@ -26,7 +26,8 @@ nav_order: 2
 
 # DBIC daily setup
 
-1. Projector Computer {: .fs-6}
+1. Projector Computer
+{: .fs-6}
 
 * [ ] Log in: [ username: mriuser, password: mriuser ]
 * [ ] On login, Chrome automatically brings up login + pass for projector control
@@ -37,16 +38,19 @@ nav_order: 2
 
 ---
 
-2. Stim PC and MRI devices {: .fs-6}
+1. Stim PC and MRI devices
+{: .fs-6}
 * [ ] Screen: Plug video VGA via USB-C adapter to Stim PC
 {: .fs-3}
 
-For Audio {: .text-delta}
+For Audio
+{: .text-delta}
 * [ ] Turn on Volume box: Pyle. Stereo power amplifier 2x15w
 * [ ] Plug audio splitter (aux cable) to Stim PC
 {: .fs-3}
 
-For Response: {: .text-delta}
+For Response:
+{: .text-delta}
 * [ ] Configure button box
       * For 2-button box: select HID key 2x2 12345
       * For trackball: select track
@@ -56,7 +60,7 @@ For Response: {: .text-delta}
 {: .fs-3}
 ---
 
-3. Screening form
+1. Screening form
 {: .fs-6}
 * [ ] Get safety screening signed
 * [ ] Log participant into REDcap system
@@ -75,7 +79,7 @@ For Response: {: .text-delta}
 
 ---
 
-4. Medoc
+1. Medoc
 {: .fs-6}
 * [ ] Turn TSA-II on before experiment, for safety test to pass
 * [ ] Turn Medoc PC on and open Medoc software
@@ -85,7 +89,7 @@ For Response: {: .text-delta}
 {: .fs-3}
 ---
 
-5. Matlab
+1. Matlab
 {: .fs-6}
 * [ ] Open all relevant tasks during T1
 * [ ] Double-check participant - we cannot mess this one up
@@ -96,7 +100,7 @@ For Response: {: .text-delta}
 
 ---
 
-6. After scanning
+1. After scanning
 {: .fs-6}
 * [ ] Pull out trigger / audio from pc
 * [ ] Restock the scrubs
@@ -108,12 +112,12 @@ For Response: {: .text-delta}
 
 
 # TSA-II
-* plug TSA-II cord and medoc-PC cord
-* wait until TSA-II turns green
-* connect TSA-II USB to medoc-PC
-* open medoc softward on medoc-PC
-* check if `external control` is "enabled"
-* plug in participant information (use BIDS id)
+* [ ] plug TSA-II cord and medoc-PC cord
+* [ ] wait until TSA-II turns green
+* [ ] connect TSA-II USB to medoc-PC
+* [ ] open medoc softward on medoc-PC
+* [ ] check if `external control` is "enabled"
+* [ ] plug in participant information (use BIDS id)
 {: .fs-3}
 
 ---
@@ -121,26 +125,37 @@ For Response: {: .text-delta}
 # Dartmouth fMRI PC setup
 ![tasks]({{ site.url }}/images/dbic_setup.png)
 
-### fMRI jack: XAF-09 in Moore B75 on "fmri-private network (VLAN 2554)""
+fMRI jack:
+{: .fs-6}
+XAF-09 in Moore B75 on "fmri-private network (VLAN 2554)""
+{: .fs-3}
 
-### medoc computer
+medoc computer
+{: .fs-6}
 * medoc.dartmouth.edu
 * ip: 10.64.1.10
 * netmask: 255.255.255.240
 * default gateway: 10.64.1.1
+{: .fs-3}
 
-### spacetop computer
+spacetop computer
+{: .fs-6}
 * spacetop.dartmouth.edu
 * ip: 10.64.1.9
 * netmask: 255.255.255.240
 * default gateway: 10.64.1.1
+{: .fs-3}
 
-### Note from research computing:
+Note from research computing:
+{: .fs-6}
 If you need to communicate with other systems outside of the fMRI private network besides 129.170.17.4 and 10.232.11.5 then the ACLs on the network will have to be modified.
+{: .fs-3}
 
-### If help needed,
+If help needed,
+{: .fs-6}
 contact Andrew Knutsen, Technology Support Specialist
 or Heejung Jung, who helped set up.
+{: .fs-3}
 
 
 ---
