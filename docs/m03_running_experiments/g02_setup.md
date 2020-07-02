@@ -27,17 +27,18 @@ nav_order: 2
 # DBIC daily setup
 
 
-{: .d-inline-block }
+
 step 1.
 {: .label .label-blue}
 {: .d-inline-block }
-Projector Computer
+Scanner Projector Computer
 {: .fs-6}
+
 * [ ] Log in: [ username: mriuser, password: mriuser ]
 * [ ] On login, Chrome automatically brings up login + pass for projector control
 * [ ] turn projector on (this takes 7 minutes)
-* [ ] When running experiment, always make sure "Shutter off"
-* [ ] + Check projector settings by clicking on the “status” menu
+* [ ] When running experiment, always make sure `Shutter off`
+* [ ] + Check projector settings by clicking on the `status` menu
 {: .fs-3 .px-6}
 
 ---
