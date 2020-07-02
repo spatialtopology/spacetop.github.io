@@ -11,8 +11,8 @@ nav_order: 2
 {: .fs-11 }
 
 
-## Table of contents
-{: .no_toc .text-delta }
+<!-- ## Table of contents
+{: .no_toc .text-delta } -->
 
 <details open markdown="block">
   <summary>
@@ -26,7 +26,9 @@ nav_order: 2
 
 # DBIC daily setup
 
-## 1. Projector Computer
+1. Projector Computer
+{: .fs-6}
+
 * [ ] Log in: [ username: mriuser, password: mriuser ]
 * [ ] On login, Chrome automatically brings up login + pass for projector control
 * [ ] turn projector on (this takes 7 minutes)
@@ -36,7 +38,8 @@ nav_order: 2
 
 ---
 
-## 2. Stim PC and MRI devices
+2. Stim PC and MRI devices
+{: .fs-6}
 * [ ] Screen: Plug video VGA via USB-C adapter to Stim PC
 {: .fs-3}
 
@@ -55,23 +58,27 @@ nav_order: 2
 {: .fs-3}
 ---
 
-## 3. Screening form
+3. Screening form
+{: .fs-6}
 * [ ] Get safety screening signed
 * [ ] Log participant into REDcap system
 * [ ] (Chrome comes on automatically which allows adding a participant)
-```yaml
+
+```
     1. Dartmouth id > SID
     2. Gender (default female. Double check if participant is male!)
     3. Race/ethnicity (information should be filled in safety form)
     4. Make sure to get the correct DBIC study number in
 ```
+
 * [ ] Add SID and accession number to scanner notebook
 * [ ] Add SID and accession number to ST_participant spreadsheet
 {: .fs-3}
 
 ---
 
-## 4. Medoc
+4. Medoc
+{: .fs-6}
 * [ ] Turn TSA-II on before experiment, for safety test to pass
 * [ ] Turn Medoc PC on and open Medoc software
 * [ ] Click participant, test, and make sure "external control" is on.
@@ -80,7 +87,8 @@ nav_order: 2
 {: .fs-3}
 ---
 
-## 5. Matlab
+5. Matlab
+{: .fs-6}
 * [ ] Open all relevant tasks during T1
 * [ ] Double-check participant - we cannot mess this one up
 * [ ] Pay attention when runs start and end
@@ -90,7 +98,8 @@ nav_order: 2
 
 ---
 
-## 6. After scanning
+6. After scanning
+{: .fs-6}
 * [ ] Pull out trigger / audio from pc
 * [ ] Restock the scrubs
 * [ ] If laundry basket full, take it up
@@ -138,11 +147,16 @@ or Heejung Jung, who helped set up.
 
 ---
 
-# Singularity container - ##NOTE this should be moved elseware
-
+# Singularity container
+{: .d-inline-block }
+move elsewhere
+{: .label .label-green}
 ---
 
-# Installing PTB on linux - ##NOTE this should be moved elseware
+# Installing PTB on linux
+{: .d-inline-block }
+move elsewhere
+{: .label .label-green}
 check installation
 * neurodebian
 * neurodocker
