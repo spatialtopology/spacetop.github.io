@@ -60,12 +60,14 @@ To be updated
 * [Google Drive email templates](https://docs.google.com/document/d/1InjkQ1vOsiuxvA0znb06FO8GiNn350IK3J1rwRas9Yw/edit?usp=sharing)
 * They will be stored in [Github - CANlab Data and Equipment Private ## has to be added](https://github.com/canlab/CANlab_data_and_equipment_private)
 {: .d-inline-block }
-To be updated {: .label .label-red}
+To be updated
+{: .label .label-red}
 
 
 # Boulder resources
 {: .d-inline-block }
-To be updated {: .label .label-red }
+To be updated
+{: .label .label-red }
 * Physical Flyers
 * Social media ads: we're doing facebook ads. Read more about [payment info]()
 * CANlab website

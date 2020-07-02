@@ -14,7 +14,7 @@ Data page: keeps track of information regarding data repo directories (either on
 Analysis page: keeps track of pre-registration and analysis repositories
 {: .fs-6 .fw-300 }
 
-## Table of contents
+
 {: toc }
 
 
