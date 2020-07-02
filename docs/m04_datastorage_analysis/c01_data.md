@@ -14,8 +14,9 @@ permalink: /data_analysis/data
 1. TOC
 {:toc}
 
-# Boulder fMRI sequence {: .label .label-yellow }
+# Boulder fMRI sequence
 * [pdf link]()
+{: .label .label-yellow }
 
 # Boulder data at CU Boulder PETA library
 * Paths on blanca to raw data:
@@ -28,4 +29,5 @@ permalink: /data_analysis/data
 # Boulder data transferred to Dartmouth
 * `/dartfs-hpc/rc/lab/C/CANlab/labdata/data/spacetop/boulder`
 
-# Dartmouth data {: .label .label-yellow }
+# Dartmouth data
+{: .label .label-yellow }

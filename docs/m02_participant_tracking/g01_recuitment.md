@@ -44,7 +44,8 @@ nav_order: 1
 # REDCap
 * [REDcap guide](https://docs.google.com/presentation/d/1_sz3M81eBZ0D1bNgAAZhlGy1iQqbtFwj3YtBhLQMmII/edit?usp=sharing) - Victoria
 
-# Consent Form {: .label .label-yellow }
+# Consent Form
+{: .label .label-yellow }
 * [create link]()
 * [dev comments] where to store this docusign file?
 
@@ -56,7 +57,8 @@ nav_order: 1
 * They will be stored in [Github - CANlab Data and Equipment Private ## has to be added](https://github.com/canlab/CANlab_data_and_equipment_private)
 
 
-# Boulder resources {: .label .label-yellow }
+# Boulder resources
+{: .label .label-yellow }
 * Physical Flyers
 * Social media ads: we're doing facebook ads. Read more about [payment info]()
 * CANlab website
