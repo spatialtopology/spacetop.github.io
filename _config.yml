@@ -101,7 +101,7 @@ include:
 
 # Color scheme currently only supports "dark" or nil (default)
 # color_scheme: nil
-color_scheme: green_theme
+color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # # e.g, UA-1234567-89
