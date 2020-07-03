@@ -129,6 +129,9 @@ step 6.
 ---
 
 # Dartmouth fMRI PC setup
+.d-inline-block}
+Maintained by Heejung
+{: .label .label-green }
 ![tasks]({{ site.url }}/images/dbic_setup.png)
 
 fMRI jack:

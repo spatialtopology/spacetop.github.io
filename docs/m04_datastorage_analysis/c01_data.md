@@ -22,6 +22,9 @@ To be added
 {: .label .label-red }
 
 # Boulder data at CU Boulder PETA library
+{: .d-inline-block}
+Maintained by Phil
+{: .label .label-green }
 * Paths on blanca to raw data:
   * dicoms: ``/beegfs/pl-active/ics/data/archive/human/dicom/prisma_fit/twager/spacetop_200115/``
   * behav: ``/beegfs/pl-active/ics/data/projects/wagerlab/labdata/data/SpaceTop/Behavior/raw/``
@@ -30,9 +33,12 @@ To be added
   * ``/beegfs/pl-active/ics/data/projects/wagerlab/labdata/data/SpaceTop/Imaging/bids/``
 
 # Boulder data transferred to Dartmouth
+{: .d-inline-block}
+Maintained by Heejung
+{: .label .label-green }
 * `/dartfs-hpc/rc/lab/C/CANlab/labdata/data/spacetop/boulder`
 
 # Dartmouth data
 {: .d-inline-block }
-Coming soon
+Coming soon - Heejung
 {: .label .label-yellow }
