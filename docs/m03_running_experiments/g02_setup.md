@@ -56,9 +56,9 @@ For Response:
 {: .text-delta .px-6}
 * [ ] Configure button box
       * For 2-button box: select HID key 2x2 12345
-      {: .fs-3 .px-12}
+      {: .fs-3 .px-7}
       * For trackball: select track
-      {: .fs-3 .px-12}
+      {: .fs-3 .px-7}
 
 * [ ] Plug button box USB to Stim PC
 * [ ] If using multiple response devices, be ready for switching out devices
@@ -100,7 +100,7 @@ step 4
 * [ ] Click participant, test, and make sure "external control" is on.
 {: .fs-3 .px-6}
     * External control “on”: External control > check box
-{: .fs-3 .px-12}
+{: .fs-3 .px-7}
 * [ ] plug in participant information (use BIDS id)
 {: .fs-3 .px-6}
 
