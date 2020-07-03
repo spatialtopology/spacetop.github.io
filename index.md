@@ -11,8 +11,6 @@ permalink: /
 {: .fs-9 }
 ![website]({{ site.url }}/images/mainpage_shadow.png)
 
---
-
 This github pages is dedicated for the Spatial Topology study "SpaceTop". The aim of this platform is to closely document every step of the experiment and have everything in one place (recruitment, task description, task code, project planning, task analysis code, troubleshooting documentation).
 {: .fs-4 .fw-300 }
 
