@@ -54,9 +54,11 @@ To be updated
 * [dev comments] where to store this docusign file?
 
 # Email scheduling
-### Acuity
+## Acuity
+* maintained by Maryam (June 2020)
+* [login info](https://canlab.slack.com/archives/CU6N3JHMZ/p1582732799004400) in spacetop_recruitment slack message
 
-### email templates
+## email templates
 * [Google Drive email templates](https://docs.google.com/document/d/1InjkQ1vOsiuxvA0znb06FO8GiNn350IK3J1rwRas9Yw/edit?usp=sharing)
 * They will be stored in [Github - CANlab Data and Equipment Private ## has to be added](https://github.com/canlab/CANlab_data_and_equipment_private)
 {: .d-inline-block }
