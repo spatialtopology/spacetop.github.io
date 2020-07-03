@@ -19,6 +19,9 @@ nav_order: 1
 ---
 
 # fMRI protocols
+{: .d-inline-block}
+* maintained by Luke
+{: .label .label-green }
 
 * [scan 1 master protocol](https://docs.google.com/document/d/1cwrJDC7tmMO6fwplcRVyyn8tpM04JTQAVwdiWWCiHy4/edit?usp=sharing){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 * [scan 2 master protocol](https://docs.google.com/document/d/1UUFopzMc_TJ1ou1UpR2AEMAMvkMaTE9fvH5HAcNx2Yw/edit?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 }
