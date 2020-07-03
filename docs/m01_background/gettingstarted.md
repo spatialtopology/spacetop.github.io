@@ -16,7 +16,7 @@ Grant proposal
 {: .fs-6 .mb-2}
 {: .d-inline-block}
 Find updated link
-{: .label .label-yellow }
+{: .label .label-yellow .mb-2}
 
 [IRB Dartmouth](https://drive.google.com/drive/folders/1GDJcX5FVgFdGSFUr7BpS_RzAU40dBTIs?usp=sharing)
 {: .fs-6 .d-inline-block}
