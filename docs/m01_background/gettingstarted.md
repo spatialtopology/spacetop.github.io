@@ -13,6 +13,7 @@ has_children: no
 
 
 * Grant proposal
+{: .fs-6 }
 {: .d-inline-block}
 Find updated link
 {: .label .label-yellow }
