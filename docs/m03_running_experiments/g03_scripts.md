@@ -32,12 +32,32 @@ links to the github repo
 {: .d-inline-block }
 To be updated
 {: .label .label-red }
+
 * social influence
 {: .fs-6 .fw-300 }
 
-#### location:
+location
+{: .text-delta}
 social_influence > scripts > step01_taskscripts > RUN_separate_social_influence.m
+{: .d-inline-block }
+{: .px-6}
 
-#### prompted:
-session number (as integer)
-participant number (as integer)
+prompted
+{: .text-delta}
+* session number (as integer)
+* participant number (as integer)
+{: .px-6}
+
+* fractionals
+{: .fs-6 .fw-300 }
+
+location
+{: .text-delta}
+fractional_factorials > RUN_fractional.m
+{: .d-inline-block }
+{: .px-6}
+
+prompted
+{: .text-delta}
+* participant number (as integer)
+{: .px-6}
