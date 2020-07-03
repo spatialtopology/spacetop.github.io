@@ -23,7 +23,7 @@ nav_order: 1
 
 [Dartmouth Recruitment Guide](https://docs.google.com/document/d/165i-cUNlEvyMIarSm3SM0vI3M0LW2YZz_m5Vg0BFJis/edit){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 {: .d-inline-block}
-* maintained by Victoria
+maintained by Victoria
 {: .label .label-green }
 
 * Recruit → Potential participants fill out Eligibility Form
@@ -48,10 +48,11 @@ maintained by Bethany
 
 
 # REDCap
-* [REDcap guide](https://docs.google.com/presentation/d/1_sz3M81eBZ0D1bNgAAZhlGy1iQqbtFwj3YtBhLQMmII/edit?usp=sharing)
 {: .d-inline-block}
-* maintained by Victoria
+maintained by Victoria
 {: .label .label-green }
+* [REDcap guide](https://docs.google.com/presentation/d/1_sz3M81eBZ0D1bNgAAZhlGy1iQqbtFwj3YtBhLQMmII/edit?usp=sharing)
+
 
 
 
@@ -65,7 +66,7 @@ To be updated
 # Email scheduling
 ## Acuity
 {: .d-inline-block}
-* maintained by Maryam (June 2020)
+maintained by Maryam
 {: .label .label-green }
 
 * [login info](https://canlab.slack.com/archives/CU6N3JHMZ/p1582732799004400) in spacetop_recruitment slack message
