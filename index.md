@@ -9,7 +9,7 @@ permalink: /
 # Good Documentation for SpaceTop
 
 {: .fs-9 }
-![website]({{ site.url }}/images/mainpage.png)
+![website]({{ site.url }}/images/mainpage_shadow.png)
 
 --
 
