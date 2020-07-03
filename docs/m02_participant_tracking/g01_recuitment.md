@@ -21,7 +21,7 @@ nav_order: 1
 
 # First Point of Contact
 
-[Dartmouth Recruitment Guide](https://docs.google.com/document/d/165i-cUNlEvyMIarSm3SM0vI3M0LW2YZz_m5Vg0BFJis/edit){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Dartmouth Recruitment Guide](https://docs.google.com/document/d/165i-cUNlEvyMIarSm3SM0vI3M0LW2YZz_m5Vg0BFJis/edit){: .btn .btn-primary .fs-5 .mb-2 .mb-md-0 }
 {: .d-inline-block}
 maintained by Victoria
 {: .label .label-green }
@@ -31,7 +31,7 @@ maintained by Victoria
 * Contact and send link to online questionnaires
 * Schedule first/all session(s)
 
-[Dartmouth recruitment sources](https://docs.google.com/document/d/1utZSH5HqwY3-RU8UrrRYeylz6cv5Rwz1nm_Byg_TxA8/edit?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Dartmouth recruitment sources](https://docs.google.com/document/d/1utZSH5HqwY3-RU8UrrRYeylz6cv5Rwz1nm_Byg_TxA8/edit?usp=sharing){: .btn .fs-5 .mb-2 .mb-md-0 }
 {: .d-inline-block}
 maintained by Bethany
 {: .label .label-green }
