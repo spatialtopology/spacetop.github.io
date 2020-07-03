@@ -7,11 +7,16 @@ permalink: /
 ---
 
 # Good Documentation for SpaceTop
+
 {: .fs-9 }
 ![website]({{ site.url }}/images/mainpage.png)
 
+--
+
 This github pages is dedicated for the Spatial Topology study "SpaceTop". The aim of this platform is to closely document every step of the experiment and have everything in one place (recruitment, task description, task code, project planning, task analysis code, troubleshooting documentation).
 {: .fs-4 .fw-300 }
+
+
 
 [Spacetop Github](https://github.com/spatialtopology){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [SpaceTop Google Drive](https://drive.google.com/open?id=1hC8EEWQ5k54oWWkbssdCWg6--vCz4009){: .btn .fs-5 .mb-4 .mb-md-0 }  [edit github.io](https://github.com/spatialtopology/spatialtopology.github.io){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 <!--
