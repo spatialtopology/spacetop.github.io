@@ -8,7 +8,7 @@ permalink: /data_analysis/analysis
 
 
 # Analysis
-{: .fs-11 }
+{: .no_toc .fs-11 }
 
 While developing analysis code may take place in separate/private repositories, at the end of the day, we would like to aggregate the repos in this one place. Make sure that you're documenting your analysis repos meticulously.
 {: .fs-6 .fw-300 }

@@ -10,8 +10,9 @@ permalink: /data_analysis
 {: .fs-9 }
 {: .no_toc }
 
-Data page: keeps track of information regarding data repo directories (either on CU Boulder PETA libraries or Dartmouth Discovery)
-Analysis page: keeps track of pre-registration and analysis repositories
+Data keeps track of data repo directories, both the CU Boulder PETA libraries and Dartmouth Discovery locations
+{: .fs-6 .fw-300 }
+Analysis keeps track of pre-registration and analysis repositories
 {: .fs-6 .fw-300 }
 
 
