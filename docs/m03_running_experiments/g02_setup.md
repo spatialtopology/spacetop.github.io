@@ -107,8 +107,8 @@ Medoc TSA setup
 
 step 5.
 {: .label .label-blue}
-{: .d-inline-block }
 Matlab
+{: .d-inline-block }
 {: .fs-6}
 * [ ] Open all relevant tasks during T1
 * [ ] Double-check participant - we cannot mess this one up
