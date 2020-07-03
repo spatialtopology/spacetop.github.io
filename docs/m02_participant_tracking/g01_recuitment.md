@@ -64,11 +64,11 @@ To be updated
 * [dev comments] where to store this docusign file?
 
 # Email scheduling
-## Acuity
 {: .d-inline-block}
 maintained by Maryam
 {: .label .label-green }
 
+## Acuity
 * [login info](https://canlab.slack.com/archives/CU6N3JHMZ/p1582732799004400) in spacetop_recruitment slack message
 
 ## email templates
