@@ -34,12 +34,11 @@ To be updated
 {: .label .label-red }
 
 * social influence
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-500 }
 
 location
-{: .text-delta}
+{: .text-delta .d-inline-block }
 social_influence > scripts > step01_taskscripts > RUN_separate_social_influence.m
-{: .d-inline-block }
 {: .px-6}
 
 prompted
@@ -52,9 +51,8 @@ prompted
 {: .fs-6 .fw-300 }
 
 location
-{: .text-delta}
+{: .text-delta .d-inline-block}
 fractional_factorials > RUN_fractional.m
-{: .d-inline-block }
 {: .px-6}
 
 prompted
