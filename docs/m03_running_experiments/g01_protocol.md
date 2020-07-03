@@ -31,3 +31,8 @@ maintained by Luke
 {: .d-inline-block }
 Coming soon
 {: .label .label-yellow }
+
+|        | face  | fractional| learning |narratives|self-other|social-influence| videos|
+|:-------|:------|:----------|:---------|:---------|:---------|:---------------|:---------|
+|device  | button| button    | trackball|button    |trackball |trackball       | trackball|
+|thermode|  X    | X         | O        | X        | X        | O              |  X       |
