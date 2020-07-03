@@ -6,17 +6,17 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Good Documentation for SpaceTop
+# Good Documentation for Spacetop
 
 {: .fs-9 }
 ![website]({{ site.url }}/images/mainpage_shadow.png)
 {: .mb-1}
 
-This github pages is dedicated for the Spatial Topology study "SpaceTop". The aim of this platform is to closely document every step of the experiment and have everything in one place (recruitment, task description, task code, project planning, task analysis code, troubleshooting documentation).
+This github pages is dedicated for the Spatial Topology study "spacetop". The aim of this platform is to closely document every step of the experiment and have everything in one place (recruitment, task description, task code, project planning, task analysis code, troubleshooting documentation).
 {: .fs-5 .fw-300}
 {: .d-inline-block }
 
-[Spacetop Github](https://github.com/spatialtopology){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-6} [SpaceTop Google Drive](https://drive.google.com/open?id=1hC8EEWQ5k54oWWkbssdCWg6--vCz4009){: .btn .fs-5 .mb-6 .mb-md-0 .mr-6}  [edit github.io](https://github.com/spatialtopology/spatialtopology.github.io){: .btn .btn-primary .fs-5 .mb-6 .mb-md-0 .mr-6 }
+[spacetop github](https://github.com/spatialtopology){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-6} [spacetop google drive](https://drive.google.com/open?id=1hC8EEWQ5k54oWWkbssdCWg6--vCz4009){: .btn .fs-5 .mb-6 .mb-md-0 .mr-6}  [edit github.io](https://github.com/spatialtopology/spatialtopology.github.io){: .btn .btn-primary .fs-5 .mb-6 .mb-md-0 .mr-6 }
 
 Icon made by Eucalyp from www.flaticon.com
 {: .fs-1 .grey-lt-100 .fw-300}

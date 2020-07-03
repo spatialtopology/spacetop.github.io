@@ -19,7 +19,8 @@ Find updated link
 {: .label .label-yellow }
 
 * [IRB Dartmouth](https://drive.google.com/drive/folders/1GDJcX5FVgFdGSFUr7BpS_RzAU40dBTIs?usp=sharing)
-{: .fs-6 .d-inline-block}
+{: .fs-6 }
+{: .d-inline-block}
 Spacetop Google Drive > Admin > IRB > 31937_Spacetop
 {: .fs-4 .fw-300 }
 
