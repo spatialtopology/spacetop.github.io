@@ -13,7 +13,7 @@ has_children: no
 
 
 Grant proposal
-{: .fs-6 }
+{: .fs-6 .mb-2}
 {: .d-inline-block}
 Find updated link
 {: .label .label-yellow }
@@ -23,9 +23,9 @@ Find updated link
 Maintained by Victoria
 {: .label .label-green }
 * Spacetop Google Drive > Admin > IRB > 31937_Spacetop
-{: .fs-4 .fw-300 }
+{: .fs-4 .fw-300 .mb-2}
 
-* [Dartmouth meeting notes](https://docs.google.com/document/d/1n40cd_tpweWnyJhhAw2N_eQjr18MHgZkQYiiOobZBiU/edit?usp=sharing)
-{: .fs-6 .d-inline-block}
+[Dartmouth meeting notes](https://docs.google.com/document/d/1n40cd_tpweWnyJhhAw2N_eQjr18MHgZkQYiiOobZBiU/edit?usp=sharing)
+{: .fs-6 .mb-2 .d-inline-block}
 Maintained by Bethany
 {: .label .label-green }
