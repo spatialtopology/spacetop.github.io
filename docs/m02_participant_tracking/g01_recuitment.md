@@ -28,7 +28,10 @@ nav_order: 1
 * Contact and send link to online questionnaires
 * Schedule first/all session(s)
 
-[Dartmouth recruitment sources - maintained by Bethany](https://docs.google.com/document/d/1utZSH5HqwY3-RU8UrrRYeylz6cv5Rwz1nm_Byg_TxA8/edit?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Dartmouth recruitment sources](https://docs.google.com/document/d/1utZSH5HqwY3-RU8UrrRYeylz6cv5Rwz1nm_Byg_TxA8/edit?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 }
+{: .d-inline-block}
+maintained by Bethany
+{: fs-4 :fw-300}
 
 * CANlab Facebook
 * Flyering campus and hanover
