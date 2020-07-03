@@ -28,7 +28,7 @@ nav_order: 2
 
 
 
-step 1.
+## step 1.
 {: .label .label-blue}
 Scanner Projector Computer
 {: .d-inline-block .fs-6}
@@ -42,7 +42,7 @@ Scanner Projector Computer
 
 ---
 
-step 2.
+## step 2.
 {: .label .label-blue}
 Stim PC and MRI devices
 {: .d-inline-block .fs-6}
@@ -66,7 +66,7 @@ For Response:
 {: .fs-3 .px-6}
 ---
 
-step 3.
+## step 3.
 {: .label .label-blue}
 Screening form
 {: .d-inline-block .fs-6}
@@ -87,7 +87,7 @@ Screening form
 {: .fs-3 .px-6}
 
 ---
-step 4.
+## step 4.
 {: .label .label-blue}
 Medoc TSA setup
 {: .d-inline-block }
@@ -102,7 +102,7 @@ Medoc TSA setup
 {: .fs-3 .px-6}
 ---
 
-step 5.
+## step 5.
 {: .label .label-blue}
 Matlab
 {: .d-inline-block }
@@ -116,7 +116,7 @@ Matlab
 
 ---
 
-step 6.
+## step 6.
 {: .label .label-blue}
 After scanning
 {: .d-inline-block }
