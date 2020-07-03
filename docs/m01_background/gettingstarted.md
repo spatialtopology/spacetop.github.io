@@ -12,10 +12,18 @@ has_children: no
 
 
 
-Grant proposal {: .fs-6 .mb-2} Find updated link {: .label .label-yellow .mb-2}
+Grant proposal
+{: .fs-6 .mb-2}
+{: .d-inline-block}
+Find updated link
+{: .label .label-yellow .mb-2}
 
 
-[IRB Dartmouth](https://drive.google.com/drive/folders/1GDJcX5FVgFdGSFUr7BpS_RzAU40dBTIs?usp=sharing) {: .fs-6} Maintained by Victoria {: .label .label-green }
+[IRB Dartmouth](https://drive.google.com/drive/folders/1GDJcX5FVgFdGSFUr7BpS_RzAU40dBTIs?usp=sharing)
+{: .fs-6}
+{: .d-inline-block}
+Maintained by Victoria
+{: .label .label-green .}
 * Spacetop Google Drive > Admin > IRB > 31937_Spacetop
 {: .fs-4 .fw-300 .mb-2}
 
