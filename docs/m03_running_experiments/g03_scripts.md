@@ -36,7 +36,10 @@ To be updated
 * social influence
 {: .fs-6 .fw-500 }
 
-location {: .text-delta} social_influence > scripts > step01_taskscripts > RUN_separate_social_influence.m
+location
+{: .text-delta}
+{: .d-inline-block }
+social_influence > scripts > step01_taskscripts > RUN_separate_social_influence.m
 {: .px-6}
 
 prompted
@@ -48,7 +51,10 @@ prompted
 * fractionals
 {: .fs-6 .fw-300 }
 
-location {: .text-delta }fractional_factorials > RUN_fractional.m
+location
+{: .text-delta }
+{: .d-inline-block }
+fractional_factorials > RUN_fractional.m
 {: .px-6}
 
 prompted
