@@ -30,9 +30,8 @@ nav_order: 2
 
 step 1.
 {: .label .label-blue}
-{: .d-inline-block }
 Scanner Projector Computer
-{: .fs-6}
+{: .d-inline-block .fs-6}
 
 * [ ] Log in: [ username: mriuser, password: mriuser ]
 * [ ] On login, Chrome automatically brings up login + pass for projector control
@@ -45,9 +44,8 @@ Scanner Projector Computer
 
 step 2.
 {: .label .label-blue}
-{: .d-inline-block }
 Stim PC and MRI devices
-{: .fs-6}
+{: .d-inline-block .fs-6}
 * [ ] Screen: Plug video VGA via USB-C adapter to Stim PC
 {: .fs-3 .px-6}
 
@@ -70,9 +68,8 @@ For Response:
 
 step 3.
 {: .label .label-blue}
-{: .d-inline-block }
 Screening form
-{: .fs-6}
+{: .d-inline-block .fs-6}
 * [ ] Get safety screening signed
 * [ ] Log participant into REDcap system
 * [ ] (Chrome comes on automatically which allows adding a participant)
@@ -90,10 +87,10 @@ Screening form
 {: .fs-3 .px-6}
 
 ---
-{: .d-inline-block }
 step 4.
 {: .label .label-blue}
 Medoc TSA setup
+{: .d-inline-block }
 {: .fs-6}
 * [ ] Turn TSA-II on before experiment, for safety test to pass
 * [ ] check green light on TSA-II
@@ -121,8 +118,8 @@ Matlab
 
 step 6.
 {: .label .label-blue}
-{: .d-inline-block }
 After scanning
+{: .d-inline-block }
 {: .fs-6}
 * [ ] Pull out trigger / audio from pc
 * [ ] Restock the scrubs
