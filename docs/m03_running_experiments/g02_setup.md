@@ -2,7 +2,7 @@
 layout: default
 title: Equipment setup
 parent: Running experiments
-permalink: /runningexp/ST
+permalink: /runningexp/setup
 nav_order: 2
 ---
 
@@ -26,8 +26,6 @@ nav_order: 2
 
 # DBIC daily setup
 
-
-
 step 1
 {: .label .label-blue}
 ## Scanner Projector Computer
@@ -49,16 +47,19 @@ step 2
 {: .fs-3 .px-6}
 
 For Audio
-{: .text-delta}
+{: .text-delta .px-6}
 * [ ] Turn on Volume box: Pyle. Stereo power amplifier 2x15w
 * [ ] Plug audio splitter (aux cable) to Stim PC
 {: .fs-3 .px-6}
 
 For Response:
-{: .text-delta}
+{: .text-delta .px-6}
 * [ ] Configure button box
       * For 2-button box: select HID key 2x2 12345
+      {: .fs-3 .px-12}
       * For trackball: select track
+      {: .fs-3 .px-12}
+
 * [ ] Plug button box USB to Stim PC
 * [ ] If using multiple response devices, be ready for switching out devices
 * [ ] Prep Trackball in advance and put “on deck”
@@ -80,6 +81,7 @@ step 3
     3. Race/ethnicity (information should be filled in safety form)
     4. Make sure to get the correct DBIC study number in - spacetop is 1076
 ```
+{: .px-6}
 
 * [ ] Add SID and accession number to scanner notebook
 * [ ] Add SID and accession number to ST_participant spreadsheet
@@ -96,7 +98,9 @@ step 4
 * [ ] check connection between TSA-II & medoc-PC (USB!!)
 * [ ] Turn Medoc PC on and open Medoc software
 * [ ] Click participant, test, and make sure "external control" is on.
+{: .fs-3 .px-6}
     * External control “on”: External control > check box
+{: .fs-3 .px-12}
 * [ ] plug in participant information (use BIDS id)
 {: .fs-3 .px-6}
 
