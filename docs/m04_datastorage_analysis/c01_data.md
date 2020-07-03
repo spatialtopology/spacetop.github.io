@@ -7,6 +7,7 @@ permalink: /data_analysis/data
 ---
 
 # Data storage
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
