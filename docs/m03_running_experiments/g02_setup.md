@@ -40,7 +40,6 @@ step 1.
 * [ ] + Check projector settings by clicking on the `status` menu
 {: .fs-3 .px-6}
 
----
 
 step 2.
 {: .label .label-blue}
@@ -64,7 +63,7 @@ For Response:
 * [ ] If using multiple response devices, be ready for switching out devices
 * [ ] Prep Trackball in advance and put “on deck”
 {: .fs-3 .px-6}
----
+
 
 step 3.
 {: .label .label-blue}
@@ -86,7 +85,7 @@ step 3.
 * [ ] Add SID and accession number to ST_participant spreadsheet
 {: .fs-3 .px-6}
 
----
+
 step 4.
 {: .label .label-blue}
 ## Medoc TSA setup
@@ -100,7 +99,7 @@ step 4.
     * External control “on”: External control > check box
 * [ ] plug in participant information (use BIDS id)
 {: .fs-3 .px-6}
----
+
 
 step 5.
 {: .label .label-blue}
@@ -114,7 +113,7 @@ step 5.
 * [ ] End key will be `e`
 {: .fs-3 .px-6}
 
----
+
 
 step 6.
 {: .label .label-blue}
