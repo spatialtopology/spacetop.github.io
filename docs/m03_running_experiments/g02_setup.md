@@ -55,10 +55,10 @@ For Audio
 For Response:
 {: .text-delta .px-6}
 * [ ] Configure button box
-      * For 2-button box: select HID key 2x2 12345
-      {: .fs-3 .px-7}
-      * For trackball: select track
-      {: .fs-3 .px-7}
+* For 2-button box: select HID key 2x2 12345
+{: .fs-3 .px-7}
+* For trackball: select track
+{: .fs-3 .px-7}
 
 * [ ] Plug button box USB to Stim PC
 * [ ] If using multiple response devices, be ready for switching out devices
