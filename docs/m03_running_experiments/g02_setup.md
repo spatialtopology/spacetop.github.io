@@ -170,6 +170,10 @@ contact Andrew Knutsen, Technology Support Specialist
 or Heejung Jung, who helped set up.
 {: .fs-3}
 
+## manually changing IP on linux
+* follow this page to change the ip. https://www.linuxtechi.com/assign-static-ip-address-ubuntu-20-04-lts/#:~:text=Configuring%20a%20static%20ip%20address,and%20then%20choose%20wired%20settings.&text=In%20the%20next%20window%2C%20Choose,gateway%20and%20DNS%20Server%20IP.
+* make sure to change the name of this ethernet setting:
+Wired > identity > name : spacetop.dartmouth.edu
 
 ---
 
