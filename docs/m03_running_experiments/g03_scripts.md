@@ -25,7 +25,7 @@ links to the github repo
 * [Attribution Learning](https://github.com/spatialtopology/SpaceTop_Attribution_Learning)
 * [Social Influence](https://github.com/spatialtopology/social_influence)
 * Face
-* [Videos](https://github.com/spatialtopology/Spatial_Topology_Videos)
+* [Videos](https://github.com/spatialtopology/func_align_video_task)
 {: .fs-6 .fw-300 }
 
 # Running Scripts
