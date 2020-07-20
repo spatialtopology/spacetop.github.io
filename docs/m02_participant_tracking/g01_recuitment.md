@@ -58,10 +58,10 @@ maintained by Victoria
 
 # Consent Form
 {: .d-inline-block }
-To be updated
+maintained by Victoria - To be updated
 {: .label .label-red }
-* [create link]()
-* [dev comments] where to store this docusign file?
+* [link](https://drive.google.com/file/d/1No2O_631yHeBi4mpxOnPbBwwzirbrp6P/view?usp=sharing)
+
 
 # Email scheduling
 {: .d-inline-block}
