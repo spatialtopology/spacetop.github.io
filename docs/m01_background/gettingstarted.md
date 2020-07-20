@@ -16,7 +16,7 @@ has_children: no
 {: .fs-6 .mb-2}
 {: .d-inline-block}
 Find updated link
-{: .label .label-yellow .mb-2}<br/>
+{: .label .label-yellow .mb-2}
 
 
 * [IRB Dartmouth](https://drive.google.com/drive/folders/1GDJcX5FVgFdGSFUr7BpS_RzAU40dBTIs?usp=sharing)
@@ -27,6 +27,7 @@ Maintained by Victoria
 
 
 * [Dartmouth meeting notes](https://docs.google.com/document/d/1n40cd_tpweWnyJhhAw2N_eQjr18MHgZkQYiiOobZBiU/edit?usp=sharing)
-{: .fs-6 .mb-2 .d-inline-block}
+{: .fs-6 .mb-2}
+{: .d-inline-block}
 Maintained by Bethany
 {: .label .label-green }
