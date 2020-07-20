@@ -12,7 +12,7 @@ has_children: no
 
 
 
-* Grant proposal
+* [Grant proposal](https://drive.google.com/drive/folders/1BnZ-v0hHyp6xuFJt8PYUWy7l3YJaIxG7?usp=sharing)
 {: .fs-6 .mb-2}
 {: .d-inline-block}
 Find updated link
@@ -24,8 +24,6 @@ Find updated link
 {: .d-inline-block}
 Maintained by Victoria
 {: .label .label-green .}
-* Spacetop Google Drive > Admin > IRB > 31937_Spacetop
-{: .fs-4 .fw-300 .mb-2 .pl-6}
 
 
 * [Dartmouth meeting notes](https://docs.google.com/document/d/1n40cd_tpweWnyJhhAw2N_eQjr18MHgZkQYiiOobZBiU/edit?usp=sharing)
