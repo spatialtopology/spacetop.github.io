@@ -30,60 +30,65 @@ maintained by Luke
 ---
 links dependent on session
 {: .text-delta}
+## session 1
 [scan 1 protocol](https://docs.google.com/document/d/1cwrJDC7tmMO6fwplcRVyyn8tpM04JTQAVwdiWWCiHy4/edit?usp=sharing){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 .mr-2 }
 ### prescan
-* [spacetop overview ppt]()
+* [spacetop overview ppt](https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view)
 * [social influence instructions]()
 * [bartoshuck scale practice]()
-* repos > practice_video_task
+* Linux PC > repos > practice_video_task
 
 ### scanner
-* repos > social Influence
-* repos > video task
+* Linux PC > repos > social Influence
+* Linux PC > repos > video task
 
 ---
 
+## session 2
 [scan 2 protocol](https://docs.google.com/document/d/1UUFopzMc_TJ1ou1UpR2AEMAMvkMaTE9fvH5HAcNx2Yw/edit?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 .text-blue-000}
 
 ### prescan
-* [spacetop overview ppt]()
+* [spacetop overview ppt](https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view)
 * [narratives powerpoint]()
 * [face powerpoint]()
 
 ### scanner
-* repos > faces
-* repos > narratives
+* Linux PC > repos > faces
+* Linux PC > repos > narratives
 
 ---
 
+## session 3
 [scan 3 protocol](https://docs.google.com/document/d/1Uq9PeuWD-UYfOlbo8buPV0LIJ9oI_Z7SVBPRbZjEobs/edit?usp=sharing){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ### prescan
+* [spacetop overview ppt](https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view)
 * [self-ref ppt](https://docs.google.com/presentation/d/1LaVPOmwckZEx68DAeqrkSNhKCkAQsJ0BL5puQePh5FI/edit)
-* repos > practice self-ref/self-other mat file
-* repos > video_viewing_only script
+* Linux PC > repos > practice self-ref/self-other mat file
+* Linux PC > repos > video_viewing_only script
 * [learning instruction ppt](https://drive.google.com/file/d/1f_MwibCkFJ0U9OrQhAaGQsD5kBPN5f6z/view)
-* repos > learning > A01_learning_phase
+* Linux PC > repos > learning > A01_learning_phase
 * ST participants for leg sites in learning task
 
 ### scanner
-* repos > self other task
-* repos > learning A02
+* Linux PC > repos > self other task
+* Linux PC > repos > learning A02
 
 ### postscan
-* repos > learning A03
+* Linux PC > repos > learning A03
 
 ---
 
+## session 4
 [scan 4 protocol](https://docs.google.com/document/d/17upqAFQgOwlCh2EOxgbhVJjdnb6hi01mG9UOgyeIRHU/edit?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 .text-blue-000}
 
 ### prescan
 * social influence reminder
-* repos > fractionals practice
+* Linux PC > repos > fractionals practice
 
 ### scanner
-* repos > fractional
-* repos > social influence
+* Linux PC > repos > fractional
+* Linux PC > repos > social influence
 
 ---
 

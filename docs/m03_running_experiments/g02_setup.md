@@ -175,6 +175,12 @@ or Heejung Jung, who helped set up.
 * make sure to change the name of this ethernet setting:
 Wired > identity > name : spacetop.dartmouth.edu
 
+## Setting firewalls and allowing private network
+* ping the medoc PC from the spacetop stim PC
+* if it doesn't work, there are two things that need to happen
+>> Create a new rule:
+[creating rules](https://www.howtogeek.com/112564/how-to-create-advanced-firewall-rules-in-the-windows-firewall/)
+>> Frewall > Inbound rules > look for "file and printer sharing (echo Request - ICMPv4-In) Private" > Enable rule
 ---
 
 # Singularity container
@@ -209,3 +215,16 @@ libGL error: failed to load driver: readeonsi
 failed to create dri screen
 
 -> https://psychtoolbox.discourse.group/t/matlab-crashes-after-insatlling-ptb-com-jogamp-opengl-glexception/74
+
+# adding EOL to matlab path without having to add it everytime
+* check `/etc/ptb3/matlab.sh`
+* added a matlab path:
+EOL MASTER = /home/spacetop/repos/EOL-master
+in the shell script
+add the line ```export MATLABPATH=$(find "$EOL_MASTER" -type d | grep -v private | tr '\n' ':')$MATLABPATH```
+
+## firewall
+* allow incoming input from medoc PC
+* use iptable
+* ```iptables -A OUTPUT -p tcp -d 192.168.0.114 --dport 20121 -j ACCEPT```
+* https://serverfault.com/questions/183461/how-do-i-allow-outgoing-connections-via-iptables
