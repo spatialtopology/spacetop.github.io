@@ -26,20 +26,45 @@ nav_order: 2
 
 # DBIC daily setup
 
+
+
 step 1
 {: .label .label-blue}
 ## Scanner Projector Computer
 {: .d-inline-block .fs-6}
 
-* [ ] Log in: [ username: mriuser, password: mriuser ]
+* [ ] Log in: [ username: mruser, password: mruser ]
 * [ ] On login, Chrome automatically brings up login + pass for projector control
-* [ ] turn projector on (this takes 7 minutes)
+* [ ] turn projector on (this takes 7 minutes) in the scanner project PC.
 * [ ] When running experiment, always make sure `Shutter off`
 * [ ] + Check projector settings by clicking on the `status` menu
 {: .fs-3 .px-6}
 
-
 step 2
+{: .label .label-blue}
+## Screening form
+{: .d-inline-block .fs-6}
+* Same PC as
+* [ ] Get safety screening signed
+* [ ] Log participant into REDcap system
+* [ ] (Chrome comes on automatically which allows adding a participant)
+{: .fs-3 .px-6}
+
+```
+    1. Dartmouth id > SID
+    2. Gender (default female. Double check if participant is male!)
+    3. Race/ethnicity (information should be filled in safety form)
+    4. Make sure to get the correct DBIC study number in - spacetop is 1076
+```
+{: .px-6}
+
+* [ ] Add SID and accession number to scanner notebook
+* [ ] Add SID and accession number to ST_participant spreadsheet
+{: .fs-3 .px-6}
+
+
+
+step 3
 {: .label .label-blue}
 ## Stim PC and MRI devices
 {: .d-inline-block .fs-6}
@@ -66,26 +91,6 @@ For Response:
 {: .fs-3 .px-6}
 
 
-step 3
-{: .label .label-blue}
-## Screening form
-{: .d-inline-block .fs-6}
-* [ ] Get safety screening signed
-* [ ] Log participant into REDcap system
-* [ ] (Chrome comes on automatically which allows adding a participant)
-{: .fs-3 .px-6}
-
-```
-    1. Dartmouth id > SID
-    2. Gender (default female. Double check if participant is male!)
-    3. Race/ethnicity (information should be filled in safety form)
-    4. Make sure to get the correct DBIC study number in - spacetop is 1076
-```
-{: .px-6}
-
-* [ ] Add SID and accession number to scanner notebook
-* [ ] Add SID and accession number to ST_participant spreadsheet
-{: .fs-3 .px-6}
 
 
 step 4
@@ -93,10 +98,11 @@ step 4
 ## Medoc TSA setup
 {: .d-inline-block }
 {: .fs-6}
+
 * [ ] Turn TSA-II on before experiment, for safety test to pass
 * [ ] check green light on TSA-II
 * [ ] check connection between TSA-II & medoc-PC (USB!!)
-* [ ] Turn Medoc PC on and open Medoc software
+* [ ] Turn Medoc PC on and open Acknowledge software (admin/admin)
 * [ ] Click participant, test, and make sure "external control" is on.
 {: .fs-3 .px-6}
     * External control “on”: External control > check box
