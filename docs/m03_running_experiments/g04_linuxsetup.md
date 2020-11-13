@@ -1,12 +1,12 @@
 ---
 layout: default
-title: fMRI Equipment setup
+title: Linux Laptop setup
 parent: Running experiments
-permalink: /runningexp/fsetup
-nav_order: 2
+permalink: /runningexp/lsetup
+nav_order: 5
 ---
 
-# Equipment setup
+# Linux Laptop Setup
 {: .no_toc }
 {: .fs-11 }
 
@@ -24,176 +24,22 @@ nav_order: 2
 {:toc}
 </details>
 
-# DBIC daily setup
+# Linux laptop setup
 
 
 
 step 1
 {: .label .label-blue}
-## Scanner Projector Computer
+## Reason why we had to go with Linux
 {: .d-inline-block .fs-6}
 
-* [ ] Log in: [ username: mruser, password: mruser ]
-* [ ] On login, Chrome automatically brings up login + pass for projector control
-* [ ] turn projector on (this takes 7 minutes) in the scanner project PC.
-* [ ] When running experiment, always make sure `Shutter off`
-* [ ] + Check projector settings by clicking on the `status` menu
-{: .fs-3 .px-6}
+* developers of psychtoolbox recommend linux
+* timing issue with windows (lag icon)
+* added more than two minutes of a lag for a task
+* ease of containerization
 
 step 2
 {: .label .label-blue}
-## Screening form
-{: .d-inline-block .fs-6}
-* Same PC as Scanner Projector PC
-* [ ] Get safety screening signed
-* [ ] Log participant into REDcap system
-* [ ] (Chrome comes on automatically which allows adding a participant)
-{: .fs-3 .px-6}
-
-```
-    1. Dartmouth id > SID
-    2. Gender (default female. Double check if participant is male!)
-    3. Race/ethnicity (information should be filled in safety form)
-    4. Make sure to get the correct DBIC study number in - spacetop is 1076
-```
-{: .px-6}
-
-* [ ] Add SID and accession number to scanner notebook
-* [ ] Add SID and accession number to ST_participant spreadsheet
-{: .fs-3 .px-6}
-
-
-
-step 3
-{: .label .label-blue}
-## Stim PC and MRI devices
-{: .d-inline-block .fs-6}
-* [ ] Screen: Plug video VGA via USB-C adapter to Stim PC
-{: .fs-3 .px-6}
-
-For Audio
-{: .text-delta .px-6}
-* [ ] Turn on Volume box: Pyle. Stereo power amplifier 2x15w
-* [ ] Plug audio splitter (aux cable) to Stim PC
-{: .fs-3 .px-6}
-
-For Response:
-{: .text-delta .px-6}
-* [ ] Configure button box
-* For 2-button box: select HID key 2x2 12345
-{: .fs-3 .px-7}
-* For trackball: select track
-{: .fs-3 .px-7}
-
-* [ ] Plug button box USB to Stim PC
-* [ ] If using multiple response devices, be ready for switching out devices
-* [ ] Prep Trackball in advance and put “on deck”
-{: .fs-3 .px-6}
-
-
-
-
-step 4
-{: .label .label-blue}
-## Medoc TSA setup
-{: .d-inline-block }
-{: .fs-6}
-
-* [ ] Turn TSA-II on before experiment, for safety test to pass
-* [ ] check green light on TSA-II
-* [ ] check connection between TSA-II & medoc-PC (USB!!)
-* [ ] Turn Medoc PC on and open Acknowledge software (admin/admin)
-* [ ] Click participant, test, and make sure "external control" is on.
-{: .fs-3 .px-6}
-    * External control “on”: External control > check box
-{: .fs-3 .px-7}
-* [ ] plug in participant information (use BIDS id)
-{: .fs-3 .px-6}
-
-
-step 5
-{: .label .label-blue}
-## Matlab
-{: .d-inline-block }
-{: .fs-6 .mb-2}
-* [ ] Open all relevant tasks during T1
-* [ ] Double-check participant - we cannot mess this one up
-* [ ] Pay attention when runs start and end
-* [ ] Start key will be `s` before the trigger.
-* [ ] End key will be `e`
-{: .fs-3 .px-6}
-
-
-
-step 6
-{: .label .label-blue}
-## After scanning
-{: .d-inline-block }
-{: .fs-6}
-* [ ] Pull out trigger / audio from pc
-* [ ] Restock the scrubs
-* [ ] If laundry basket full, take it up
-* [ ] Turn the TV / lights off
-{: .fs-3 .px-6}
-
----
-
-# Dartmouth fMRI PC setup
-{: .d-inline-block}
-Maintained by Heejung
-{: .label .label-green }
-![tasks]({{ site.url }}/images/dbic_setup.png)
-
-fMRI jack:
-{: .fs-6}
-XAF-09 in Moore B75 on "fmri-private network (VLAN 2554)""
-{: .fs-3}
-
-medoc computer
-{: .fs-6}
-* medoc.dartmouth.edu
-* ip: 10.64.1.10
-* netmask: 255.255.255.240
-* default gateway: 10.64.1.1
-{: .fs-3}
-
-spacetop computer
-{: .fs-6}
-* spacetop.dartmouth.edu
-* ip: 10.64.1.9
-* netmask: 255.255.255.240
-* default gateway: 10.64.1.1
-{: .fs-3}
-
-Note from research computing:
-{: .fs-6}
-If you need to communicate with other systems outside of the fMRI private network besides 129.170.17.4 and 10.232.11.5 then the ACLs on the network will have to be modified.
-{: .fs-3}
-
-If help needed,
-{: .fs-6}
-contact Andrew Knutsen, Technology Support Specialist
-or Heejung Jung, who helped set up.
-{: .fs-3}
-
-## manually changing IP on linux
-* follow this page to change the ip. [link](https://www.linuxtechi.com/assign-static-ip-address-ubuntu-20-04-lts/#:~:text=Configuring%20a%20static%20ip%20address,and%20then%20choose%20wired%20settings.&text=In%20the%20next%20window%2C%20Choose,gateway%20and%20DNS%20Server%20IP.)
-* make sure to change the name of this ethernet setting:
-Wired > identity > name : spacetop.dartmouth.edu
-
-## Setting firewalls and allowing private network
-* ping the medoc PC from the spacetop stim PC
-* if it doesn't work, there are two things that need to happen
->> Create a new rule:
-[creating rules](https://www.howtogeek.com/112564/how-to-create-advanced-firewall-rules-in-the-windows-firewall/)
->> Frewall > Inbound rules > look for "file and printer sharing (echo Request - ICMPv4-In) Private" > Enable rule
----
-
-# Singularity container
-{: .d-inline-block }
-move elsewhere
-{: .label .label-green}
----
 
 # Installing PTB on linux
 {: .d-inline-block }
@@ -234,3 +80,17 @@ add the line ```export MATLABPATH=$(find "$EOL_MASTER" -type d | grep -v private
 * use iptable
 * ```iptables -A OUTPUT -p tcp -d 192.168.0.114 --dport 20121 -j ACCEPT```
 * https://serverfault.com/questions/183461/how-do-i-allow-outgoing-connections-via-iptables
+
+
+
+## manually changing IP on linux
+* follow this page to change the ip. [link](https://www.linuxtechi.com/assign-static-ip-address-ubuntu-20-04-lts/#:~:text=Configuring%20a%20static%20ip%20address,and%20then%20choose%20wired%20settings.&text=In%20the%20next%20window%2C%20Choose,gateway%20and%20DNS%20Server%20IP.)
+* make sure to change the name of this ethernet setting:
+Wired > identity > name : spacetop.dartmouth.edu
+
+## Setting firewalls and allowing private network
+* ping the medoc PC from the spacetop stim PC
+* if it doesn't work, there are two things that need to happen
+>> Create a new rule:
+[creating rules](https://www.howtogeek.com/112564/how-to-create-advanced-firewall-rules-in-the-windows-firewall/)
+>> Frewall > Inbound rules > look for "file and printer sharing (echo Request - ICMPv4-In) Private" > Enable rule
