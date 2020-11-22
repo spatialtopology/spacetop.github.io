@@ -33,15 +33,11 @@ nav_order: 2
 
 * Overview ([PPT](https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view?usp=sharing))
 
-* Bartoshuk Instructions  ([Github code](LINK)) <br>
-`C:\Users\Dartmouth College\Desktop\Spacetop\SpaceTop_Attribution_Learning-master`
-{: .fs-3}
+* Bartoshuk Instructions  ([Github code](LINK)) <br> `C:\Users\Dartmouth College\Desktop\Spacetop\SpaceTop_Attribution_Learning-master`
 
 * Social Influence Instructions ([PPT](https://drive.google.com/file/d/1NjwO1qHNQAufzUjs6xjFf_gb4p8qFHFt/view?usp=sharing))
 
-
-* Practice Align-Videos Task ([Github code](https://github.com/spatialtopology/func_align_video_task/blob/master/code/practice_func_align_video_task.m)) <br>   
-`C:\Users\Dartmouth College\Desktop\Spacetop\algin_videos`
+* Practice Align-Videos Task ([Github code](https://github.com/spatialtopology/func_align_video_task/blob/master/code/practice_func_align_video_task.m)) <br>  `C:\Users\Dartmouth College\Desktop\Spacetop\algin_videos`
 
 
 ---
@@ -52,15 +48,16 @@ nav_order: 2
 * Study Overview ([PPT](https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view?usp=sharing))
 
 * Narratives task instructions (PPT)
-
-Get link {: .label .label-red }
+{: .d-inline-block}
+Get link
+{: .label .label-red }
 
 * Faces task instructions (PPT)
+{: .d-inline-block}
+Get link
+{: .label .label-red }
 
-Get link {: .label .label-red }
-
-* Align-videos practice script  ([Github code](LINK)) <br>
-`C:\Users\Dartmouth College\Desktop\Spacetop\func_align_video_task-master\func_align_video_task-master\code`
+* Align-videos practice script  ([Github code](LINK)) <br> `C:\Users\Dartmouth College\Desktop\Spacetop\func_align_video_task-master\func_align_video_task-master\code`
 
 
 ---
