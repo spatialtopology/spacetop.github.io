@@ -26,23 +26,25 @@ nav_order: 2
 
 
 # session 1
-{: .label .label-blue}
+{: .text-green-000}
+
 <!-- ## Sess
 {: .d-inline-block .fs-6} -->
 
-* Overview (PPT)
-https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view?usp=sharing
+* Overview (PPT) [ [ link ](https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view?usp=sharing) ]
+
 
 * Bartoshuk Instructions
-C:\Users\Dartmouth College\Desktop\Spacetop\SpaceTop_Attribution_Learning-master
+`Path` C:\Users\Dartmouth College\Desktop\Spacetop\SpaceTop_Attribution_Learning-master
 
-* Social Influence Instructions (PPT) https://drive.google.com/file/d/162ZZmbDO8Vt8XijliDp-cwuG9NX03a-Z/view?usp=sharing
+* Social Influence Instructions (PPT) [ [ link ](https://drive.google.com/file/d/1NjwO1qHNQAufzUjs6xjFf_gb4p8qFHFt/view?usp=sharing) ]
 
-* Practice Align-Videos Task (MATLAB) https://github.com/spatialtopology/func_align_video_task/blob/master/code/practice_func_align_video_task.m
+
+* Practice Align-Videos Task (MATLAB)  https://github.com/spatialtopology/func_align_video_task/blob/master/code/practice_func_align_video_task.m
 
 
 # session 2
-{: .label .label-blue}
+{: .text-blue-0000}
 
 * Study Overview (PPT) https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view?usp=sharing
 
@@ -55,7 +57,10 @@ C:\Users\Dartmouth College\Desktop\Spacetop\func_align_video_task-master\func_al
 
 
 # session 3
-## Pre-MRI
+{: .text-blue-0000}
+
+Pre-MRI
+{: .text-blue-0000 .fs-6}
 
 * Study Overview (PPT)
 https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view?usp=sharing
