@@ -3,7 +3,7 @@ layout: default
 title: Register Biopac
 parent: Running experiments
 permalink: /runningexp/biopac
-nav_order: 4
+nav_order: 5
 ---
 
 # Register participant in Acqknowledge (Biopac)
