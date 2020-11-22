@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thermodes
+title: Thermodes documentation
 parent: Documentation
 permalink: /doc/thermodes
 nav_order: 1
