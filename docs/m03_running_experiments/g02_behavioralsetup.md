@@ -6,7 +6,7 @@ permalink: /runningexp/bsetup
 nav_order: 2
 ---
 
-# Behavioral Testing room Equipment setup
+# Testing Room @453 Setup
 {: .no_toc }
 {: .fs-11 }
 
@@ -25,8 +25,8 @@ nav_order: 2
 </details>
 
 
-# session 1
-{: .text-green-000}
+# Session 1
+{: .text-yellow-200}
 
 <!-- ## Sess
 {: .d-inline-block .fs-6} -->
@@ -44,7 +44,7 @@ nav_order: 2
 
 
 # session 2
-{: .text-blue-0000}
+{: .text-green-000}
 
 * Study Overview (PPT) https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view?usp=sharing
 
@@ -57,10 +57,10 @@ C:\Users\Dartmouth College\Desktop\Spacetop\func_align_video_task-master\func_al
 
 
 # session 3
-{: .text-blue-0000}
+{: .text-blue-100}
 
 Pre-MRI
-{: .text-blue-0000 .fs-6}
+{: .text-blue-100 .fs-6}
 
 * Study Overview (PPT)
 https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view?usp=sharing
@@ -88,12 +88,15 @@ C:\Users\Dartmouth College\Desktop\Spacetop\self_referential_processing-master\s
 C :\Users\Dartmouth College\Desktop\Spacetop\SpaceTop_Attribution_Learning-master
 
 
-## Post-MRI:
+Post-MRI:
+{: .text-blue-100 .fs-6}
 
 * Learning Similarity A03 - (MATLAB)
 C:\Users\Dartmouth College\Desktop\Spacetop\SpaceTop_Attribution_Learning-master
 
 # session 4
+{: .text-red-200}
+
 * Study Overview (PPT) https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view?usp=sharing
 
 * Fractional factorial explanation (MATLAB)
