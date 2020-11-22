@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Protocols
+title: Thermodes
 parent: Documentation
-permalink: /doc/stimuli
+permalink: /doc/thermodes
 nav_order: 1
 ---
 
