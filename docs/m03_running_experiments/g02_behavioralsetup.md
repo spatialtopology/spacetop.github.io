@@ -42,7 +42,7 @@ nav_order: 2
 
 * Practice Align-Videos Task ([Github code](https://github.com/spatialtopology/func_align_video_task/blob/master/code/practice_func_align_video_task.m)) <br>   
 `C:\Users\Dartmouth College\Desktop\Spacetop\algin_videos`
-{: .fs-3}
+
 
 ---
 
@@ -53,13 +53,11 @@ nav_order: 2
 
 * Narratives task instructions (PPT)
 
-Get link
-{: .label .label-red }
+Get link {: .label .label-red }
 
 * Faces task instructions (PPT)
 
-Get link
-{: .label .label-red }
+Get link {: .label .label-red }
 
 * Align-videos practice script  ([Github code](LINK)) <br>
 `C:\Users\Dartmouth College\Desktop\Spacetop\func_align_video_task-master\func_align_video_task-master\code`
@@ -79,20 +77,20 @@ Pre-MRI:
 ))  
 
 * Practice Short-Videos Task  ([Github code](https://github.com/spatialtopology/self_referential_processing/blob/Boulder-fMRI/mentalizing_one_question_per_block/practice_self_other_video_task.m)) <br>
-C:\Users\Dartmouth College\Desktop\Spacetop\self_referential_processing-master\self_referential_processing-master\code
+`C:\Users\Dartmouth College\Desktop\Spacetop\self_referential_processing-master\self_referential_processing-master\code`
 
 
 * Short-Videos Refresher ([PPT](https://docs.google.com/presentation/d/1ZlCo5iCNOSN1qj63aBdY7s4ihAuyUHB7PoCnKvLEXoU/edit?usp=sharing))
 
 * Short-Videos Viewing Only  ([Github code](https://github.com/spatialtopology/self_referential_processing/blob/Boulder-fMRI/self_other_video_viewing_only.m))  <br>
 `C:\Users\Dartmouth College\Desktop\Spacetop\self_referential_processing-master\self_referential_processing-master\code`
-{: .fs-3}
+
 
 * Learning Phase Instructions ([PPT](https://drive.google.com/file/d/1f_MwibCkFJ0U9OrQhAaGQsD5kBPN5f6z/view?usp=sharing))
 
 * Learning Phase - A01  ([Github code](https://github.com/spatialtopology/SpaceTop_Attribution_Learning/blob/master/A01_Learning_Phase.m))   <br>
 `C :\Users\Dartmouth College\Desktop\Spacetop\SpaceTop_Attribution_Learning-master`
-{: .fs-3}
+
 
 
 Post-MRI:
