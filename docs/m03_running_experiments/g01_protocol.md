@@ -1,20 +1,25 @@
 ---
 layout: default
-title: Protocols
+title: Protocols (DBIC + Testing 453)
 parent: Running experiments
-permalink: /runningexp/protocol
+permalink: /runningexp/protocols
 nav_order: 1
 ---
 
-# Protocols
+
+
+# Protocols: fMRI + behavioral
 {: .no_toc }
 {: .fs-11 }
 
-## Table of contents
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 # fMRI protocols
 {: .d-inline-block}
@@ -31,16 +36,16 @@ maintained by Luke
 links dependent on session
 {: .text-delta}
 ## session 1
-[scan 1 protocol](https://docs.google.com/document/d/1cwrJDC7tmMO6fwplcRVyyn8tpM04JTQAVwdiWWCiHy4/edit?usp=sharing){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 .mr-2 }
-### prescan
-* [spacetop overview ppt](https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view)
-* [social influence instructions]()
-* [bartoshuck scale practice]()
-* Linux PC > repos > practice_video_task
+[scan 1 protocol](https://docs.google.com/document/d/1cwrJDC7tmMO6fwplcRVyyn8tpM04JTQAVwdiWWCiHy4/edit?usp=sharing)
+### behavioral
+* [spacetop overview (PPT)](https://drive.google.com/file/d/1Gqtk3tscjNDzrcNw-tYlWnoVyS6OGuBC/view?usp=sharing)
+* [social influence instructions (PPT)](https://drive.google.com/file/d/1NjwO1qHNQAufzUjs6xjFf_gb4p8qFHFt/view?usp=sharing)
+* bartoshuck scale practice (MATLAB): `C:\Users\Dartmouth College\Desktop\Spacetop\SpaceTop_Attribution_Learning-master`
+* Practice Align-Videos Task (MATLAB) https://github.com/spatialtopology/func_align_video_task/blob/master/code/practice_func_align_video_task.m
 
 ### scanner
-* Linux PC > repos > social Influence
-* Linux PC > repos > video task
+* `Linux PC > repos > social_influence > scripts > `
+* `Linux PC > repos > video task`
 
 ---
 
