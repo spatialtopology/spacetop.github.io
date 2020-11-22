@@ -11,7 +11,8 @@ nav_order: 4
 {: .fs-11 }
 
 
-# Biopac template tree structure on DBIC medoc PC
+Biopac template tree structure on DBIC medoc PC
+{: .fs-6 }
 ```
 +---biopac_template
 |   +---ses-01
@@ -41,6 +42,7 @@ nav_order: 4
             LEARNING_spacetop_sub-0003_ses-03_task-learning.acq
 
 ```
+{: .fs-3}
 
 * for each session, open the following .gtl templates
 * in order to prevent losing any data, save the `.gtl` template with the corresponding participant name. Make sure to save as `.acq`
@@ -48,3 +50,4 @@ nav_order: 4
 * stop between runs
     * e.g. social influence has 3 runs. Use `ctrl + space` to stop at the end of run 1, `ctrl + space` to start for run 2
 * at the end of the entire experiment, save the template as .acq.
+{: .fs-6 }
