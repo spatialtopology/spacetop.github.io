@@ -123,20 +123,25 @@ step 5
 * [ ] End key will be `e`
 {: .fs-3 .px-6}
 
-
 step 6
 {: .label .label-blue}
 ## saving data
 {: .d-inline-block }
 {: .fs-6 .mb-2}
-* [ ] check Medoc - Are there expected number of thermodes?
-* [ ] Save acquisition files
-* [ ] push data file to github data repo
+* [ ] [ Medoc ] - Are there expected number of thermodes?
+* [ ] [ biopac ] save acquisition files in BIDS format
+* [ ] [ spacetop PC ] push data file to github data repo
+{: .fs-3 .px-6}
+    * cd home/spacetop/repos/data
+    * cd sub-XXXX # subject of the day
+    * git add sub-XXXX
+    * git commit -m "sub-XXXX data"
+    * git push origin master
+{: .fs-3 .px-7}
 
 
 
-
-step 6
+step 7
 {: .label .label-blue}
 ## After scanning cleaning
 {: .d-inline-block }
