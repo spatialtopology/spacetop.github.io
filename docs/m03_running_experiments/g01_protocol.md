@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Protocols (DBIC + Testing 453)
+title: Protocols
 parent: Running experiments
 permalink: /runningexp/protocols
 nav_order: 1
@@ -8,7 +8,7 @@ nav_order: 1
 
 
 
-# Protocols: fMRI + behavioral
+# Protocols (Dialogues)
 {: .no_toc }
 {: .fs-11 }
 
