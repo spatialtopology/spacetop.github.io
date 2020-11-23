@@ -50,4 +50,3 @@ Biopac template tree structure on DBIC medoc PC
 * stop between runs
     * e.g. social influence has 3 runs. Use `ctrl + space` to stop at the end of run 1, `ctrl + space` to start for run 2
 * at the end of the entire experiment, save the template as .acq.
-{: .fs-6 }
