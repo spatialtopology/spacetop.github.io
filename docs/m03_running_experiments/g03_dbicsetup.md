@@ -26,8 +26,6 @@ nav_order: 3
 
 # DBIC daily setup
 
-
-
 step 1
 {: .label .label-blue}
 ## Scanner Projector Computer
@@ -66,7 +64,7 @@ step 2
 
 step 3
 {: .label .label-blue}
-## Stim PC and MRI devices
+## Spacetop PC and MRI devices
 {: .d-inline-block .fs-6}
 * [ ] Screen: Plug video VGA via USB-C adapter to Stim PC
 {: .fs-3 .px-6}
@@ -95,7 +93,7 @@ For Response:
 
 step 4
 {: .label .label-blue}
-## Medoc TSA setup
+## Medoc PC: Medoc TSA setup
 {: .d-inline-block }
 {: .fs-6}
 
@@ -110,10 +108,30 @@ step 4
 * [ ] plug in participant information (use BIDS id)
 {: .fs-3 .px-6}
 
-
 step 5
 {: .label .label-blue}
-## Matlab
+## Medoc PC - Stim PC communictaion
+* [ ] Check if all of the ethernet cables are connected [ #LINK configuration ]
+* [ ] Test 1: In the SPACETOP PC terminal, type  ping 10.64.1.10 This is the ip address of the medoc PC. we’ll make sure that the spacetop can send bytes to medoc
+* [ ] Test 2: turn on medoc main station program. Go into external control mode.
+In the SPACETOP PC, load matlab ptb3-matlab. In the command window,
+main(‘10.64.1.10’, 20121, 1, 100) # select Program
+main(10.64.1.10’, 20121, 4, 100) # Trigger Program
+* [ ] run `testmain.m`, which will basically do Test 2 for you.
+
+step 6
+{: .label .label-blue}
+## Medoc PC: Biopac - data acquisition
+* [ ] for each session, open the .gtl templates `spacetop > `
+* [ ] in order to prevent losing any data, save the `.gtl` template with the corresponding participant name. Make sure to save as `.acq`
+* [ ] use ctrl + space to start and stop (the button is misleading to use)
+* [ ] stop between runs
+    * e.g. social influence has 3 runs. Use `ctrl + space` to stop at the end of run 1, `ctrl + space` to start for run 2
+* [ ] at the end of the entire experiment, save the template as .acq.
+
+step 6
+{: .label .label-blue}
+## Spacetop PC: Matlab
 {: .d-inline-block }
 {: .fs-6 .mb-2}
 * [ ] Open all relevant tasks during T1
@@ -123,9 +141,9 @@ step 5
 * [ ] End key will be `e`
 {: .fs-3 .px-6}
 
-step 6
+step 7
 {: .label .label-blue}
-## saving data
+## Spacetop PC: saving data
 {: .d-inline-block }
 {: .fs-6 .mb-2}
 * [ ] [ Medoc ] - Are there expected number of thermodes?
@@ -139,9 +157,7 @@ step 6
     * git push origin master
 {: .fs-3 .px-7}
 
-
-
-step 7
+step 8
 {: .label .label-blue}
 ## After scanning cleaning
 {: .d-inline-block }
@@ -191,9 +207,3 @@ If help needed,
 contact Andrew Knutsen, Technology Support Specialist
 or Heejung Jung, who helped set up.
 {: .fs-3}
-
----
-
-# biopac templates
-
----
