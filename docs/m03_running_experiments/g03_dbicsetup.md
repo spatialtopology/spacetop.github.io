@@ -118,8 +118,9 @@ In the SPACETOP PC, load matlab ptb3-matlab. In the command window,
 main(‘10.64.1.10’, 20121, 1, 100) # select Program
 main(10.64.1.10’, 20121, 4, 100) # Trigger Program
 * [ ] run `testmain.m`, which will basically do Test 2 for you.
+{: .fs-3 .px-6}
 
-step 6
+step 7
 {: .label .label-blue}
 ## Medoc PC: Biopac - data acquisition
 {: .d-inline-block  .fs-6}
@@ -129,8 +130,9 @@ step 6
 * [ ] stop between runs
     * e.g. social influence has 3 runs. Use `ctrl + space` to stop at the end of run 1, `ctrl + space` to start for run 2
 * [ ] at the end of the entire experiment, save the template as .acq.
+{: .fs-3 .px-6}
 
-step 6
+step 8
 {: .label .label-blue}
 ## Spacetop PC: Matlab
 {: .d-inline-block  .fs-6}
@@ -141,7 +143,7 @@ step 6
 * [ ] End key will be `e`
 {: .fs-3 .px-6}
 
-step 7
+step 9
 {: .label .label-blue}
 ## Spacetop PC: saving data
 {: .d-inline-block }
@@ -151,12 +153,12 @@ step 7
 * [ ] [ spacetop PC ] push data file to github data repo
 {: .fs-3 .px-6}
 ```
-    cd home/spacetop/repos/data
-    cd sub-XXXX # subject of the day
-    git add sub-XXXX
-    git commit -m "sub-XXXX data"
+    cd home/spacetop/repos/data \
+    cd sub-XXXX # subject of the day \
+    git add sub-XXXX \
+    git commit -m "sub-XXXX data" \
     git push origin master
-    ```
+```
 {: .fs-3 .px-7}
 
 step 8
