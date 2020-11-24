@@ -16,7 +16,7 @@ nav_order: 3
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    Table of contents (toggle arrows)
   </summary>
   {: .text-delta }
 
@@ -94,8 +94,7 @@ For Response:
 step 4
 {: .label .label-blue}
 ## Medoc PC: Medoc TSA setup
-{: .d-inline-block }
-{: .fs-6}
+{: .d-inline-block  .fs-6}
 
 * [ ] Turn TSA-II on before experiment, for safety test to pass
 * [ ] check green light on TSA-II
@@ -111,6 +110,7 @@ step 4
 step 5
 {: .label .label-blue}
 ## Medoc PC - Stim PC communictaion
+{: .d-inline-block  .fs-6}
 * [ ] Check if all of the ethernet cables are connected [ #LINK configuration ]
 * [ ] Test 1: In the SPACETOP PC terminal, type  ping 10.64.1.10 This is the ip address of the medoc PC. we’ll make sure that the spacetop can send bytes to medoc
 * [ ] Test 2: turn on medoc main station program. Go into external control mode.
@@ -122,6 +122,7 @@ main(10.64.1.10’, 20121, 4, 100) # Trigger Program
 step 6
 {: .label .label-blue}
 ## Medoc PC: Biopac - data acquisition
+{: .d-inline-block  .fs-6}
 * [ ] for each session, open the .gtl templates `spacetop > `
 * [ ] in order to prevent losing any data, save the `.gtl` template with the corresponding participant name. Make sure to save as `.acq`
 * [ ] use ctrl + space to start and stop (the button is misleading to use)
@@ -132,8 +133,7 @@ step 6
 step 6
 {: .label .label-blue}
 ## Spacetop PC: Matlab
-{: .d-inline-block }
-{: .fs-6 .mb-2}
+{: .d-inline-block  .fs-6}
 * [ ] Open all relevant tasks during T1
 * [ ] Double-check participant - we cannot mess this one up
 * [ ] Pay attention when runs start and end
@@ -150,18 +150,19 @@ step 7
 * [ ] [ biopac ] save acquisition files in BIDS format
 * [ ] [ spacetop PC ] push data file to github data repo
 {: .fs-3 .px-6}
-    * cd home/spacetop/repos/data
-    * cd sub-XXXX # subject of the day
-    * git add sub-XXXX
-    * git commit -m "sub-XXXX data"
-    * git push origin master
+```
+    cd home/spacetop/repos/data
+    cd sub-XXXX # subject of the day
+    git add sub-XXXX
+    git commit -m "sub-XXXX data"
+    git push origin master
+    ```
 {: .fs-3 .px-7}
 
 step 8
 {: .label .label-blue}
 ## After scanning cleaning
-{: .d-inline-block }
-{: .fs-6}
+{: .d-inline-block .fs-6}
 * [ ] Pull out trigger / audio from pc
 * [ ] Restock the scrubs
 * [ ] If laundry basket full, take it up
