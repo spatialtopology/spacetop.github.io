@@ -14,7 +14,7 @@ nav_order: 1
 {: .no_toc .text-delta }
 
 1. TOC
-{: .no_toc}
+{:toc}
 
 # Thermode rules
 
